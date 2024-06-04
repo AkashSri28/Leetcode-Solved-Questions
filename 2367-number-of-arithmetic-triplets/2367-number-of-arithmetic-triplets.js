@@ -4,19 +4,18 @@
  * @return {number}
  */
 var arithmeticTriplets = function(nums, diff) {
-    let count = 0, j=1;
-    for(let i=0;i<nums.length-2;i++){
-        while(j< nums.length && nums[j] - nums[i] < diff){
-            j++;
-        }
-        if(nums[j] - nums[i] == diff){
-            for(let k=0;k<nums.length;k++){
-                if(nums[k] - nums[j] == diff){
-                    count = count+1;
-                    break;
-                }
-            }
-        }
+    let count = 0;
+  const numSet = new Set(nums); // To quickly check the existence of a number
+
+  for (let i = 0; i < nums.length; i++) {
+    const num1 = nums[i];
+    const num2 = num1 + diff;
+    const num3 = num2 + diff;
+
+    if (numSet.has(num2) && numSet.has(num3)) {
+      count++;
     }
-    return count;
+  }
+
+  return count;
 };
