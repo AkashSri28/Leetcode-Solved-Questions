@@ -10,16 +10,12 @@ class Solution(object):
         :type node: ListNode
         :rtype: void Do not return anything, modify node in-place instead.
         """
-        curr = node
-        f = curr.next
-        while f.next is not None:
-            curr.val = f.val
-            curr = f
-            f = f.next
-        curr.val = f.val
-        curr.next = None
+        curr = node.next
+        node.val = curr.val
+        node.next = curr.next
         
-# TC: O(n)
-# SC: O(n)
-# Approach: Trick Question, just keep copying data from next node and delete last node
+# TC: O(1)
+# SC: O(1)
+# Approach1: Trick Question, just keep copying data from next node and delete last node
+# Better Approach: just copy data from next node to curr and skip next
         
