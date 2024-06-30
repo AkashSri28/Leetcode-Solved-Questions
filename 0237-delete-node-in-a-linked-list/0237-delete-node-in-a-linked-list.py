@@ -19,4 +19,7 @@ class Solution(object):
         curr.val = f.val
         curr.next = None
         
+# TC: O(n)
+# SC: O(n)
+# Approach: Trick Question, just keep copying data from next node and delete last node
         
