@@ -22,3 +22,6 @@ class Solution(object):
                 nums1[k-1] = temp   
             i += 1 
         
+# TC: O(m*n)
+# SC: O(1)
+    
