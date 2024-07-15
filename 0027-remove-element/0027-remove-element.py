@@ -17,3 +17,7 @@ class Solution(object):
             else:
                 i += 1
         return j
+
+# TC: O(n)
+# SC: O(1)
+# Approach: Variation of DNF algorithm, keep j to track val values seen so far
