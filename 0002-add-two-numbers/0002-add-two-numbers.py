@@ -53,5 +53,11 @@ class Solution(object):
             prev.next = newNode
             
         return head
-            
+    
+# TC: O(max(len(l1), len(l2)))
+# SC: O(1)
+# Approach: this is similar to adding two sorted arrays, use both until both exists
+#     then whichever exists take that
+#     remember to include carry
+#     if carry exists in end, add a new node for carry
         
