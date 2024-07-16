@@ -32,7 +32,12 @@ class Solution(object):
                 r = mid - 1
             else:
                 l = mid + 1
-                
+# TC: O(log(m+n)) 
+# SC: O(1)
+# Approach: for median we need to divide array into 2 halves
+#     using binary search we will guess the elements from 1st half,
+#     then we will get elements from num2 using half - mid - 2
+#     now verify if num1_left <= num2_right and num2_left <= num1_right and return median
                 
         
         
