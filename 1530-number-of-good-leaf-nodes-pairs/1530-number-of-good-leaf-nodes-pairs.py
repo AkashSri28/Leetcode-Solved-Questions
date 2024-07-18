@@ -45,4 +45,9 @@ class Solution:
         dfs(root)
         return res
         
-        
+# TC: O(n*d^2)
+# SC: O(d)
+# Approach:
+#     on any node, find number of nodes at any given height
+#     left and right nodes sum <= distance will be included in ans
+#     return sum of left and right results
