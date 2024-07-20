@@ -12,4 +12,6 @@ class Solution:
         
         return matrix
         
-        
+# TC: O(m*n)
+# SC: O(m*n) for storing result
+# Approach: at any position, value will be minimum of possible rowSum and colSum
