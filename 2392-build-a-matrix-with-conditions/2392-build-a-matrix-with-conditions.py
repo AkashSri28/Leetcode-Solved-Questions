@@ -37,4 +37,17 @@ class Solution:
             matrix[row_position[i]][col_position[i]] = i
         
         return matrix
+    
+# TC: O(m+n+k)    
+#     creating graph: O(n) and O(m) -> O(m+n)
+#     creating topo sort: number of edges: O(V+E): O(k+m+n)
+#     creating matrix: O(k)
         
+# SC: O(m+n)  graph
+#     O(k)    order_list
+#     O(k^2)  matrix
+#     O(m+n+k^2) overall
+    
+# Approach: which node will come first will be determined using topo sort
+#     if topo sort is less than k, means all nodes are not covered, return empty array
+#     if there is result, generate final position for each num using row and col indexes
