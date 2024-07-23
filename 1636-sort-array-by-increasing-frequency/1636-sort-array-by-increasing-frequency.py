@@ -16,4 +16,17 @@ class Solution:
         
         return res
             
-        
+# TC: O(nlogn)
+#     O(n)    create dict
+#     O(n)    create freq_list
+#     O(nlogn)    sort freq_list
+#     O(n)    create res
+# SC: O(n)
+#     O(n)    create dict
+#     O(n)    create freq_list
+#     O(n)    res
+    
+# Approach: store all elements and its freq in dictionary,
+#     now convert dictionary to 2d list
+#     sort 2d list
+#     now based on freq create res array
