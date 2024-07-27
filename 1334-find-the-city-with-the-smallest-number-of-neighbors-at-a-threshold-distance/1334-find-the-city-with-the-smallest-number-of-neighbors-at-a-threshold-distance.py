@@ -30,3 +30,6 @@ class Solution:
         
         return res
         
+# TC: O(n^2 log n) for each node (n^2) it will take logn^2 time to find next smallest
+# SC: O(n^2)
+# Approach: Use dijkstra to find all the nodes which can be reached and less than distanceThreshold
