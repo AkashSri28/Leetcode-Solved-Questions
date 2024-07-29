@@ -20,3 +20,7 @@ class Solution:
             
         return count
         
+# TC: O(n^2)
+# SC: O(1)
+# Approach: since we need to form a team of 3. if we know middle element, we can find other 2. so we fix middle element and check its left and right
+#     finally multiply to get result.
