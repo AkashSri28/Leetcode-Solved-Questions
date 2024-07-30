@@ -20,3 +20,6 @@ class Solution:
         
         return max_area
         
+# TC: O(n)
+#     SC: O(n)    #stack
+#         Approach: Every height can be stretched to right unless there is something smaller. And to left it can be stretched until elements taller to it are present
