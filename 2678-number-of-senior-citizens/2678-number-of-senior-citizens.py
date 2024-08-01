@@ -10,3 +10,6 @@ class Solution:
                 count += 1
         return count
         
+
+# TC: O(n)
+#     SC:(1)
