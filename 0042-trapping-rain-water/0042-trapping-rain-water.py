@@ -20,5 +20,12 @@ class Solution:
                 res += water_height - height[i]
                 
         return res
+    
+# TC: O(n)
+#     SC: O(n) #for storing left max height and right max height
+#         Approach: for every index we need to left and right max possible height
+#             now if min of left and right max height is greater than current height
+#             that means water can be stored
+            
                 
         
