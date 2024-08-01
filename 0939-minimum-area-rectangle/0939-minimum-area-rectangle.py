@@ -20,3 +20,12 @@ class Solution:
             return 0
         return min_area
         
+# TC: O(n^2)
+#     O(n)    creating map
+#     +
+#     O(n^2)  for iterating over points
+    
+# SC: O(n)    map
+    
+# Approach: if we know diagonal in a rectangle, points on other diagonal can be calculated
+#     Now check if these points exist
