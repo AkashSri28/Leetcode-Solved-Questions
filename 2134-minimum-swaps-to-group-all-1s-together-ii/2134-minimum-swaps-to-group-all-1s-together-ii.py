@@ -24,5 +24,7 @@ class Solution:
         return res
             
             
-        
+    # TC: O(n)
+    #     SC: O(1)
+    #         Approach: maximum 1s consecutive can stay in window of size == count of 1 in array. Now remove 1 element and add one element to check if we find a window with minimum 0 count
         
