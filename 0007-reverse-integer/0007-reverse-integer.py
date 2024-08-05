@@ -15,3 +15,9 @@ class Solution:
             return 0
         return ans
         
+        
+    # TC: O(digits)
+    #     SC: O(1)
+    #         Approach: extract each digit and add to reverse
+    #             check edge cases for negative number
+    #             or when it cross the boundary values
