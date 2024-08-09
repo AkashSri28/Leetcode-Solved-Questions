@@ -30,4 +30,8 @@ class Solution:
                     if check_square(grid, i, j):
                         ans += 1
         return ans
+    
+    # TC: O(r*c)
+    #     SC: O(1)
+    #         Approach: center element for all such matrices will be 5, check all valid matrices where center is 5
         
