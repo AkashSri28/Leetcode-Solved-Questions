@@ -31,4 +31,6 @@ class Solution:
                     
         return regions
                 
-        
+    # TC: O(n^2)
+    #     SC: O(n^2)
+    #         Approach: every cell can be divided into 9 cells. Block cells which are covered by '/' or '\\'. Now use number of islands
