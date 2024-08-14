@@ -19,3 +19,6 @@ class Solution:
         dfs(idx, path, total)
         return ans
         
+# TC: O(2^target)
+#     SC: O(target)
+#         Approach: for any element, we have 2 choices we can choose or ignore it. We can choose an element as long as total < target
