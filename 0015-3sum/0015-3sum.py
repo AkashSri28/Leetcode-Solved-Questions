@@ -29,3 +29,6 @@ class Solution:
         
         return ans
         
+# TC: O(n^2)  #O(n) for i, and O(n) for finding 2 sum using j and k
+#     SC: O(n)    #storing result
+#         Approach: fix 1 element, now we can adjust 2 other pointers until sum becomes 0. Moving j will increase sum and moving k will decrease sum
