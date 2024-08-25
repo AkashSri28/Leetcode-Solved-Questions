@@ -12,7 +12,6 @@ class Solution:
     
     def nearestPalindromic(self, n: str) -> str:
         len_n = len(n)
-        char_n = list(n)
         int_n = int(n)
         is_even = False
         if len_n % 2 == 0:
@@ -50,5 +49,9 @@ class Solution:
         
         return str(ans)
             
+# TC: O(n)
+#     SC: O(1)
+#         Approach: for making 123 as palindrome there are 3 options: 121 (no change in first half), 131 (first half incremented by 1) and 111 (first half decremented by 1)
+#                 Also, 99 and 1001 can be solution if it is a 3 digit number
         
         
