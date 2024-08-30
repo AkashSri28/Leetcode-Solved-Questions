@@ -13,4 +13,8 @@ class Solution:
         dp = [-1]*n
         
         return helper(nums, n-1)
+    
+    # TC: O(n)
+    #     SC: O(n)
+    #         Approach: if we take current input, we can't take i-1
         
