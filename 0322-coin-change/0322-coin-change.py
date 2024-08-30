@@ -19,4 +19,7 @@ class Solution:
         if min_coin(amount) != float("inf"):
             return min_coin(amount)
         return -1
-        
+    
+    # TC: O(amount*len(coins))
+    #     SC: O(amount)
+    #         Approach: lets say amount is 11, and we have 1, 2 and 5 coins. Now, answer will be min of (1+min_coin(amount-1), 1+min_coiin(amount-2), 1+min_coin(amount-5)). dp[amount] represents min number of coins required to reach amount.
