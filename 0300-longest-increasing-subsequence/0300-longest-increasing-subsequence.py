@@ -19,4 +19,8 @@ class Solution:
             find_LIS(i)
         # print(LIS_at)
         return max(LIS_at)
+    
+    # TC: O(n^2)
+    #     SC: O(n)
+    #         Approach: Find length of longest subsequence ending at i. Return max of all values.
         
