@@ -15,3 +15,7 @@ class Solution:
         
         return func(0, 0)
         
+        
+# TC: O(m*n)
+#     SC: O(m*n)
+#         Approach: dp[i][j] represent number of ways to reach target from (i,j).
