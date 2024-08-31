@@ -32,3 +32,7 @@ class Solution:
             check_longest_palindrome(s, i)
             
         return ans
+    
+    # TC: O(n^2)
+    #     SC: O(1)
+    #         Approach: for every index check the maximum palindrome length possible at that index
