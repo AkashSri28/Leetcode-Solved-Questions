@@ -35,4 +35,4 @@ class Solution:
     
     # TC: O(n^2)
     #     SC: O(1)
-    #         Approach: for every index check the maximum palindrome length possible at that index
+    #         Approach: for every index check the maximum palindrome length possible at that index. Check for both scenario where palindrome is of odd length and even length.
