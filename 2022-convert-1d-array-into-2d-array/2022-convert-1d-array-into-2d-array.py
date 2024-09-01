@@ -10,5 +10,9 @@ class Solution:
                 k += 1
                 
         return ans
+    
+    # TC: O(len(original))
+    #     SC: O(m*n)
+    #         Approach: if length of original != target (m*n), then ans array is not possible, return []. Otherwise build ans array. Use k as pointer to original[].
                 
         
