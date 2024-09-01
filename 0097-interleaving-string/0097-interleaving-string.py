@@ -18,4 +18,8 @@ class Solution:
         dp[(m,n,l)] = True
         
         return func(0, 0, 0)
+    
+    # TC: O(m*n*l)
+    #     SC: O(m*n*l)
+    #         Approach: dp(i,j,k) represents if we can reach end from i, j, k position.  
         
