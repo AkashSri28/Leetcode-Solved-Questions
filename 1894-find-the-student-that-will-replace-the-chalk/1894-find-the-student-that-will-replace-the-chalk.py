@@ -8,9 +8,12 @@ class Solution:
         i = 0
         total = sum(chalk)  #O(n)
         k = k%total
-        while k >= chalk[i]:
+        for i in range(len(chalk)):
+            if k < chalk[i]:
+                return i
             k -= chalk[i]
-            i += 1
-        return i
+        return 0
+        
+                
         
         
