@@ -12,5 +12,9 @@ class Solution:
             number = str(temp)  # Convert the sum back to a string
             k -= 1
         return int(number)  # Return the final result as an integer
+    
+    # TC: O(len(s))
+    #     SC: O(1)
+    #         Approach: First convert each ch into equivalent digit. Then convert each digit into int and add to res
             
         
