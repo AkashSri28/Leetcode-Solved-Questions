@@ -1,25 +1,16 @@
 class Solution:
     def getLucky(self, s: str, k: int) -> int:
-        def sum_digits(s_int):
-            res = 0
-            while s_int > 0:
-                res = res + s_int%10
-                s_int //= 10
-                
-            return res
+        number = ''
+        for x in s:
+            number += str(ord(x) - ord('a') + 1)
         
-        def char_to_int(ch):
-            return ord(ch)-ord('a')+1
-        
-        s_int = ""
-        for ch in s:
-            s_int = s_int + str(char_to_int(ch))
-            
-        s_int = int(s_int)
-        
-        for i in range(k):
-            s_int = sum_digits(s_int)
-            
-        return s_int
+        # Perform the transformation `k` times
+        while k > 0:
+            temp = 0
+            for x in number:
+                temp += int(x)  # Sum the digits of the current number
+            number = str(temp)  # Convert the sum back to a string
+            k -= 1
+        return int(number)  # Return the final result as an integer
             
         
