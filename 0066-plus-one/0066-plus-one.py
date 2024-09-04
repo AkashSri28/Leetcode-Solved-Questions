@@ -13,4 +13,8 @@ class Solution:
             ans.append(1)
         ans.reverse()
         return ans
+    
+    # TC: O(n)
+    #     SC:O(n)
+    #         Approach: we will iterate on all numbers from reverse order, and keep adding carry where required. Now if digit becomes 10, we need to set carry for next digit. If carry is left after iteration, add carry as last element
         
