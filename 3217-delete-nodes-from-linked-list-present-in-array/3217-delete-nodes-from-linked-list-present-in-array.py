@@ -9,12 +9,6 @@ class Solution:
         new_head = ListNode()
         new_head.next = head
         
-#         while new_head and new_head.val in nums_set:
-#             new_head = new_head.next
-            
-#         if not new_head:
-#             return new_head
-        
         curr, new = new_head, new_head.next
         
         while new:
@@ -23,8 +17,10 @@ class Solution:
                 curr = new
             new = new.next
             
-        curr.next = None
-        
+        curr.next = None        
         
         return new_head.next
         
+    # TC: O(len(nums)+len(list))
+    #     SC: O(len(nums))
+    #         Approach: Here a trick is used. Whenever we need to delete nodes and head can also get delete, add a dummy node which points to head. 
