@@ -6,13 +6,14 @@
 class Solution:
     def modifiedList(self, nums: List[int], head: Optional[ListNode]) -> Optional[ListNode]:
         nums_set = set(nums)
-        new_head = head
+        new_head = ListNode()
+        new_head.next = head
         
-        while new_head and new_head.val in nums_set:
-            new_head = new_head.next
+#         while new_head and new_head.val in nums_set:
+#             new_head = new_head.next
             
-        if not new_head:
-            return new_head
+#         if not new_head:
+#             return new_head
         
         curr, new = new_head, new_head.next
         
@@ -25,5 +26,5 @@ class Solution:
         curr.next = None
         
         
-        return new_head
+        return new_head.next
         
