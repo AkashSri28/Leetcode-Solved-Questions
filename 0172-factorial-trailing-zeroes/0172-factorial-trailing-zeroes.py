@@ -8,5 +8,10 @@ class Solution:
             num = 5**i
             ans += (n//num)
         return ans
+    
+    # TC: O(log n, base 5)
+    #     SC: O(1)
+    #         Approach: Number of 0s will be depenedent on number of 5s in the product. Find number of 5s.
+            
         
         
