@@ -15,4 +15,9 @@ class Solution:
         if neg:
             return 1/ans
         return ans
+    
+    # TC: O(log n)
+    #     SC: O(1)
+    #         Approach: 2**9 can be represented as 2 x 2**4 x 2**4
+        
         
