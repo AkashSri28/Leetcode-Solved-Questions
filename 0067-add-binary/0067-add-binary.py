@@ -26,4 +26,8 @@ class Solution:
             
         
         return ''.join(ans)[::-1]
+    
+    # TC: O(max(len(a), len(b)))
+    #     SC: O(max(len(a), len(b)))
+    #         Approach: Start checking from right until we a bit/ carry is set. 
         
