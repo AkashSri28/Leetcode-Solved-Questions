@@ -24,4 +24,8 @@ class Solution:
             ans = max(ans, 1+max(slope_dict.values()))
             
         return ans
+    
+    # TC: O(n**2)
+    #     SC: O(n)
+    #         Approach: For each point find points with same slope. Max of slopes for any point will be ans. Add 1 for current point.
         
