@@ -15,3 +15,7 @@ class Solution:
                 j += 1
             
         return i+1
+    
+    # TC: O(n)
+    #     SC: O(1)
+    #         Approach: Two pointer. i will track final list ending. Now count number of curr occurance, skip all occurances once count reaches 2.
