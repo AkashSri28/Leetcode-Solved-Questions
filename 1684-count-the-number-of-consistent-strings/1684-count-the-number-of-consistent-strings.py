@@ -9,8 +9,7 @@ class Solution:
         for word in words:
             for ch in word:
                 bit = 1<<(ord(ch)-ord('a'))
-                res = allowed_mask & bit
-                if res == 0:
+                if allowed_mask & bit == 0:
                     ans -= 1
                     break
                     
