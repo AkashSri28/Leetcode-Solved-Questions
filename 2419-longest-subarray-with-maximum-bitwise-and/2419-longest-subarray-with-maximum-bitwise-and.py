@@ -14,21 +14,15 @@ class Solution:
         #     res = max(res, count)
         # return res
         n = len(nums)
-        res = [0]*n
-        res[0] = nums[0]
-        
-        for i in range(1, n):
-            temp = res[i-1] & nums[i]
-            res[i] = max(nums[i], temp)
             
-        maxi, cnt, ans = res[0], 1, 1
+        maxi, cnt, ans = nums[0], 1, 1
         
         for i in range(1, n):
-            if maxi == res[i]:
+            if maxi == nums[i]:
                 cnt += 1
                 ans = max(ans, cnt)
-            elif maxi < res[i]:
-                maxi = res[i]
+            elif maxi < nums[i]:
+                maxi = nums[i]
                 cnt = 1
                 ans = 1
             else:
