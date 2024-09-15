@@ -22,5 +22,9 @@ class Solution:
                 state[bitmask] = i
                 
         return ans
+    
+    #TC: O(n)
+    #SC: O(2^5 = 32) #state keys
+    #Approach: Whenever we need to find longest, we should be aware when count becomes repeats. Use bitmask to store states, whenever a state is repeated, find length and check max. 
             
         
