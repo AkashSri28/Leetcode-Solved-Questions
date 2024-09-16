@@ -27,6 +27,10 @@ class Solution:
         # edge case
         ans = min(ans, (first-0)+(1440-curr))
         return ans
-                    
+               
+    #TC: O(n)   #traversing through timeList
+    #SC: O(1440) or O(1)    #storing all possible time combinations
+    #Approach: 1 approach is to sort and check time difference between adjacent values, but here possible values will be between 0 and 1439, so mark these values and check difference between adjacent values
+    
                 
         
