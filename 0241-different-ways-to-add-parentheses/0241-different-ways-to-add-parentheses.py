@@ -22,4 +22,8 @@ class Solution:
                 
         
         return res
+    
+    #TC: O(2^n+n)       #2^n for string of len n, 2 subtrees will be created at each step, for find res O(n) 
+    #SC: O(2^n)         #Recursion tree can go to depth 2^n
+    #Approach:          #For every operator we can split expression and check until we reach base case. Base case is when dont have any operator in expression
         
