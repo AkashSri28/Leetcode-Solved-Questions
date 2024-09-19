@@ -1,32 +1,18 @@
 class Solution:
     def maxScore(self, a: List[int], b: List[int]) -> int:
-        m, n = 4, len(b)
-        # Memoization dictionary to store intermediate results
-        memo = {}
+        n = len(b)
+        dp = [[float('-inf')] * (n + 1) for _ in range(5)]
 
-        def max_score(i, j):
-            # If we need to pick 0 elements, the score is 0
-            if i == 0:
-                return 0
-            # If there are not enough elements in b to pick i elements, return negative infinity
-            if j < i:
-                return -float('inf')
-            # If this subproblem has been solved, return the cached result
-            if (i, j) in memo:
-                return memo[(i, j)]
+        for j in range(n + 1):
+            dp[0][j] = 0
 
-            # Option 1: Skip the current element in `b`
-            option1 = max_score(i, j - 1)
+        for i1 in range(1, 5):
+            for i2 in range(1, n + 1):
+                take = dp[i1 - 1][i2 - 1] + a[i1 - 1] * b[i2 - 1]
+                not_take = dp[i1][i2 - 1]
+                dp[i1][i2] = max(take, not_take)
 
-            # Option 2: Pick the current element in `b`
-            option2 = max_score(i - 1, j - 1) + a[i - 1] * b[j - 1]
-
-            # Store the result in memo
-            memo[(i, j)] = max(option1, option2)
-            return memo[(i, j)]
-
-        # The result is the maximum score using all 4 elements of `a`
-        return max_score(m, n)
+        return dp[4][n]
         
         
 #         m, n = len(b), len(a)
