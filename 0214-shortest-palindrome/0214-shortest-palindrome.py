@@ -11,12 +11,12 @@ class Solution:
         
         for i, c in enumerate(s):
             val = (ord(c) - ord('a')+1)
-            prefix *= 29
+            prefix *= base
             prefix += val
             prefix %= mod
             
             suffix += (val*power)
-            power *= 29
+            power *= base
             suffix %= mod
             
             if prefix == suffix:
