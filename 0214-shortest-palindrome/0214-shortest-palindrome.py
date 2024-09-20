@@ -24,6 +24,10 @@ class Solution:
                 
         rem = s[index+1:][::-1]
         return rem+s
+    
+# TC: O(n)
+# SC: O(1)
+# Approach: Use Robin Karp Algorithm to compare s and its reverse to find longest palindrome start at index 0. Now reverse the remaining string and add to the beginning of s
             
         
         
