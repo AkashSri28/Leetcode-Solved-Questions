@@ -4,7 +4,7 @@ class Solution:
         
         #find longest palindrome starting at 0        
         prefix = suffix = 0
-        base = 26
+        base = 29
         power = 1
         index = 0
         mod = 10**9 + 7
