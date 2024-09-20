@@ -10,7 +10,7 @@ class Solution:
         mod = 10**9 + 7
         
         for i, c in enumerate(s):
-            val = ord(c) - ord('a')
+            val = (ord(c) - ord('a')+1)
             prefix *= 29
             prefix += val
             prefix %= mod
