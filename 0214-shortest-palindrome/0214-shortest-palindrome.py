@@ -2,10 +2,7 @@ class Solution:
     
     def shortestPalindrome(self, s: str) -> str:
         
-        #find longest palindrome starting at 0
-        if len(s) == 0:
-            return ""
-        
+        #find longest palindrome starting at 0        
         prefix = suffix = 0
         base = 29
         power = 1
