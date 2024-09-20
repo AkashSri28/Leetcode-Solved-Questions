@@ -9,6 +9,7 @@ class Solution:
         prefix = suffix = 0
         base = 29
         power = 1
+        index = 0
         
         for i, c in enumerate(s):
             val = ord(c) - ord('a')
