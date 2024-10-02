@@ -13,5 +13,11 @@ class Solution:
             ans.append(dic[a])
             
         return ans
+    
+    # TC: O(nlogn)
+    #     O(nlogn) sorting + O(n) dic creation + O(n) ans generation
+    # SC: O(n)
+    #     O(n) dic + O(n) ls
+    # Approach: we need to sort elements to find smallest number, smallest number will have rank 1. Increase rank everytime new number is seen
                 
         
