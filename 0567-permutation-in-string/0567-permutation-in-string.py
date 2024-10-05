@@ -30,4 +30,8 @@ class Solution:
             j += 1
             
         return False
+    
+    #TC: O(len(s1)+len(s2))
+    #SC: O(len(s1)+len(s2))
+    #Approach: Used same technique as group all anagrams. Created [0]*26 array and compared tuples for checking anagram of s1 in s2
         
