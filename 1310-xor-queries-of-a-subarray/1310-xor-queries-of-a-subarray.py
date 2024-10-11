@@ -11,4 +11,8 @@ class Solution:
             ans.append(xor[end+1]^xor[start])
             
         return ans
+    
+    # TC: O(q) + O(n)
+    #     SC: O(n)
+    #         Approach: We can create a prefix xor array, and for the given range use xor(end+1)^xor(start)
         
