@@ -2,13 +2,13 @@ class Solution:
     def minGroups(self, intervals: List[List[int]]) -> int:
         heap = []
         for l, r in intervals:
-            heapq.heappush(heap, [l, 0])
-            heapq.heappush(heap, [r, 1])
+            heap.append([l, 0])
+            heap.append([r, 1])
             
         ans, cnt = 0, 0
+        heap.sort()
         
-        while heap:
-            i, flag = heapq.heappop(heap)
+        for i, flag in heap:
             if flag:
                 cnt -= 1
             else:
