@@ -24,6 +24,10 @@ class Solution:
                 heapq.heappush(heap, (nums[k][idx], k, idx))
         
         return ans_range
+    
+    # TC: O(n*logk)
+    #     SC: O(k)
+    #         Approach: We need to find a set which includes elements from all lists and difference is minimum. We can try removing min element from list and check range. Similar to merge k sorted lists
             
             
         
