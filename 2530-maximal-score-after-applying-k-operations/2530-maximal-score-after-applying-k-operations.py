@@ -19,6 +19,6 @@ class Solution:
     
     # TC: O(k*logn)
     #     SC: O(n)
-            
+    #         Approach: We will always use max value to add in score. So heapify nums and extract max in each iteration
             
         
