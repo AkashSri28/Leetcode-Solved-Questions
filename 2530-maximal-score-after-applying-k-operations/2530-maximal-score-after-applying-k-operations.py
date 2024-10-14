@@ -1,9 +1,10 @@
 class Solution:
     def maxKelements(self, nums: List[int], k: int) -> int:
-        max_heap = []   #(num, idx)
+        max_heap = [-n for n in nums]   #(num)
+        heapq.heapify(max_heap)
         
-        for i, n in enumerate(nums):
-            heapq.heappush(max_heap, -1*n)
+        # for i, n in enumerate(nums):
+        #     heapq.heappush(max_heap, -1*n)
             
         score = 0
         while k > 0:
