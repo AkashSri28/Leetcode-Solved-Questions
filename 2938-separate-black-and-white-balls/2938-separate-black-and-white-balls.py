@@ -9,3 +9,7 @@ class Solution:
                 j += 1
                 
         return ans
+    
+    # TC: O(n)
+    #     SC: O(n)
+    #         Approach: Find white ball and swap with its correct location. Find difference in its position before and after swap.
