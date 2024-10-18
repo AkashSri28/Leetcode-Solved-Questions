@@ -16,4 +16,8 @@ class Solution:
         helper(0, 0)
                 
         return mem[max_val]
+    
+    # TC: O(2**n)
+    #     SC: O(n)
+    #         Approach: Find all subsets and check or
         
