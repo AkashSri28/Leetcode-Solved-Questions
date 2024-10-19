@@ -1,5 +1,7 @@
 class Solution:
     def findKthBit(self, n: int, k: int) -> str:
+        if k == 1:
+            return '0'
         s = '0'
         
         while len(s) < k:
@@ -13,4 +15,7 @@ class Solution:
                 j -= 1
                 
         return s[k-1]
+    
+    # TC: O(k**2)
+    #     SC: O(k)
         
