@@ -1,9 +1,9 @@
 class Solution:
-    def removeDuplicates(self, nums: List[int]) -> int:
-        # def swap(nums, i, j):
-        #     temp = nums[i]
-        #     nums[i] = nums[j]
-        #     nums[j] = temp
+    def removeDuplicates(self, nums: List[int]) -> int:        
+        def swap(nums, i, j):
+            temp = nums[i]
+            nums[i] = nums[j]
+            nums[j] = temp
             
         i, j = -1, 0
         seen = set()
