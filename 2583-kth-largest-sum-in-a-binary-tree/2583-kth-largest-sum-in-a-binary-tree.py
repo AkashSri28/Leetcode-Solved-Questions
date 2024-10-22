@@ -29,5 +29,9 @@ class Solution:
             return -1
         
         return total[k-1]
+    
+    # TC: O(n) + O(nlogn)
+    #     SC: O(n)
+    #         Approach: Store level wise sum using BFS in dict. Sort values and return kth largest.
             
         
