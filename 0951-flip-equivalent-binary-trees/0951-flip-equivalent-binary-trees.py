@@ -17,6 +17,10 @@ class Solution:
         # Check if they are equivalent without flip or with flip
         return (self.flipEquiv(root1.left, root2.left) and self.flipEquiv(root1.right, root2.right)) or \
     (self.flipEquiv(root1.left, root2.right) and self.flipEquiv(root1.right, root2.left))
+    
+    # TC: O(min(n, m))
+    #     SC: O(min(h1, h2))
+    #         Approach: check with and without flip to see if nodes match
         
             
         
