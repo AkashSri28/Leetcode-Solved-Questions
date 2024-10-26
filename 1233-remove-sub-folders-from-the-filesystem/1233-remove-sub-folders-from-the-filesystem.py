@@ -33,4 +33,8 @@ class Solution:
                 ans.append(f)
         
         return ans
+    
+    # TC: O(len of all strings)
+    #     SC: O(len of all strings)
+    #         Approach: we need to skip strings whose prefix is already seen. Sort and check if prefix is already seen.
         
