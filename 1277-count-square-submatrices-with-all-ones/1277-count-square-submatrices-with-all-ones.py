@@ -16,3 +16,7 @@ class Solution:
                     ans += sq_cnt[i][j]
         
         return ans
+    
+    # TC: O(m*n)
+    #     SC: O(m*n)
+    #         Approach: Find number of square matrices ending at (i,j). FInd sum of number of matrices.
