@@ -18,4 +18,8 @@ class Solution:
         if ans == float('-inf'):
             return -1
         return ans
+    
+    # TC: O(nlogn)
+    #     SC: O(n)
+    #         Approach: If we know the length of streak from any point and we reach that point for current element. Length of streak for current element will be 1+ streak of next starting point
         
