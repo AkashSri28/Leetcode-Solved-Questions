@@ -20,5 +20,9 @@ class Solution:
                 length = max(length, 1+dp_left[i]+dp_right[i])
             
         return n-length
+    
+    # TC: O(n**2)
+    #     SC: O(n)
+    #         Approach: store of length of longest decreasing string on left and right for each index. Then find the length longest mountain.
             
         
