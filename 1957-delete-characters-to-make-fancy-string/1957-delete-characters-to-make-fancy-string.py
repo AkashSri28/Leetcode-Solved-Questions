@@ -7,4 +7,8 @@ class Solution:
                 continue
             new_s = new_s + s[i]
         return new_s
+    
+    # TC: O(n)
+    #     SC: O(1)
+    #         Approach: we can skip those chars which are seen on last 2 occasions
         
