@@ -11,4 +11,5 @@ class Solution:
     # TC: O(n)
     #     SC: O(1)
     #         Approach: we can skip those chars which are seen on last 2 occasions
+    # PTR: Manipulating strings is a costlier operation, so update list and join in the end
         
