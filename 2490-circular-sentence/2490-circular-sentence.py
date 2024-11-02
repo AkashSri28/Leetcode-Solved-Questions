@@ -5,6 +5,8 @@ class Solution:
                 return False
         
         return sentence[-1] == sentence[0]
+    # TC: O(n)
+    # SC: O(1)
         
 #         words = sentence.split()
 #         for i in range(len(words)):
