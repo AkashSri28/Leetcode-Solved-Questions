@@ -22,4 +22,8 @@ class Solution:
             if check(i):
                 return True
         return False
+    
+    # TC: O(n) + O(n) Finding indices and checking strings
+    #     SC: O(n)    Storing indices
+    #         Approach: Find all occurance of starting char and check if the string matches.
         
