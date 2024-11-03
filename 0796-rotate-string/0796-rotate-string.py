@@ -4,6 +4,10 @@ class Solution:
             return False
         
         return goal in s+s
+    
+    # TC: O(n)
+    # SC: O(n)
+    # Approach: rotate string will exist in s+s [PTR]
         
         
 #         indices = []
