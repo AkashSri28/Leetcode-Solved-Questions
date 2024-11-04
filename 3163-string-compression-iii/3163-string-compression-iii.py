@@ -13,4 +13,8 @@ class Solution:
             
             i = j
             
-        return ''.join(comp)        
+        return ''.join(comp)       
+    
+    # TC: O(n)
+    #     SC: O(n)
+    #         Approach: Read char from word and count until len is less than 9. Then add to array. Merge array and return.
