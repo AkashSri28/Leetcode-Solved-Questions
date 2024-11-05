@@ -23,4 +23,4 @@ class Solution:
         
 # TC: O(n)
 #     SC: O(n)    #stack
-#         Approach: Every height can be stretched to right unless there is something smaller. And to left it can be stretched until elements taller to it are present
+#         Approach: Add element to stack if its height is greater than previous. If height is less, pop elements from stack. For each element popped, calculate its area. Its area will be height * distance between it and curr element.
