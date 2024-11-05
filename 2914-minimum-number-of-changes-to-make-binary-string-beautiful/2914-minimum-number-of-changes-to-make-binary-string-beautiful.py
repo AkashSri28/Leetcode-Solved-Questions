@@ -7,4 +7,8 @@ class Solution:
             i += 2
             
         return ans
+    
+    # TC: O(n)    n: len(s)
+    #         SC: O(1)
+    #             Approach: to get all even length substrings, check if all substrings have same char, change any one if chars are not same
         
