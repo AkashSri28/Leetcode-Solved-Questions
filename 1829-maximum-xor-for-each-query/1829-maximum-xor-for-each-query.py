@@ -15,5 +15,8 @@ class Solution:
             answer.append(res)
             
         return answer
-        
+    
+    # TC O(2N)
+    # SC O(N)
+    # Approach To find max value of k, we need to find the value XOR of value calculated so far and max value possible.  
         
