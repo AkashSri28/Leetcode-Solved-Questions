@@ -28,6 +28,10 @@ class Solution:
             j += 1
             
         return ans
+    
+    # TC: O(3n)
+    #     SC: O(3n)
+    #         Approach: we need subset sum, so adding array before and after will make problem easy.
             
             
         
