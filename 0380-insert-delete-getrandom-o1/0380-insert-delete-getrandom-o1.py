@@ -28,3 +28,7 @@ class RandomizedSet:
 # param_1 = obj.insert(val)
 # param_2 = obj.remove(val)
 # param_3 = obj.getRandom()
+
+# TC: O(1)
+#     SC: O(n)
+#         Approach: using a dictionary can help in accessing an object in O(1) time
