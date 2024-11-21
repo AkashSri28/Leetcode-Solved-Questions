@@ -30,4 +30,8 @@ class Solution:
                     ans += 1
                     
         return ans
+    
+    # TC: O(m*n)
+    #     SC: O(m*n)
+    #         Approach: Block only if you see a guard/ end of grid
         
