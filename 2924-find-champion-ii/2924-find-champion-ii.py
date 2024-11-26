@@ -14,4 +14,8 @@ class Solution:
                 ans = index
                 
         return ans
+    
+    # TC: O(n)
+    #     SC: O(n)
+    #         Approach: A team will be strongest, if there is no incoming edge. Store in-degree of all nodes. Now if there are more than 1 node with in-degree 0, return -1
         
