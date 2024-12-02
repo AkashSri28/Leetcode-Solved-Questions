@@ -39,5 +39,9 @@ class Solution:
                 return index+1
             
         return -1
+    
+    # TC: O(len(searchWord)*len(max len word))
+    #     SC: O(len(searchWord))
+    #         Approach: Store the word in trie and check each word in sentence
             
         
