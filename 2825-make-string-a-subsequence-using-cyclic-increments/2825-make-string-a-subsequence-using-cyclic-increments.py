@@ -10,4 +10,8 @@ class Solution:
         if j == len(str2):
             return True
         return False
+    
+    # TC: O(len(str2))
+    #     SC: O(1)
+    #         Approach: each character which can be used, we will include it and pass others
         
