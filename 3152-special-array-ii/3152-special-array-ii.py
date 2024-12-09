@@ -15,4 +15,8 @@ class Solution:
                 ans.append(False)
                 
         return ans
+    
+    # TC: O(n)
+    #     SC: O(n)
+    #         Approach: For each index find length of longest alternate string ending, now check if length of string is greater than given range
         
