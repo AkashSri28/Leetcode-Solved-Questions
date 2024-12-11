@@ -18,4 +18,8 @@ class Solution:
                 cnt -= 1
                 
         return ans
+    
+    # TC: O(2n)
+    #     SC: O(n)
+    #         Approach: we need to find a point where maximum intervals overlap
         
