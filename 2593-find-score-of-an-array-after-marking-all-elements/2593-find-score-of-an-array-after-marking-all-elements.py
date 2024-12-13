@@ -16,5 +16,9 @@ class Solution:
                 score += num
                 
         return score
+    
+    # TC: O(nlogn) #heap
+    #     SC: O(n)    #heap
+    #         Approach: Use heap to find min element and for each min element mark it and its neighbours in seen
             
         
