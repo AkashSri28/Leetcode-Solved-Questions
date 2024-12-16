@@ -13,4 +13,8 @@ class Solution:
             nums[index] = num
             
         return nums
+    
+    # TC: O(k*logn)
+    #     SC: O(n)
+    #         Approach: we need to find smallest number at each iteration, hence min heap is used
         
