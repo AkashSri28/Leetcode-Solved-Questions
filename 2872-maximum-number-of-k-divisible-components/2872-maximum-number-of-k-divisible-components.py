@@ -22,6 +22,10 @@ class Solution:
                 
         postOrder(0, -1)
         return res
+    
+    # TC: O(n)
+    #     SC: O(n)
+    #         Approach: for each node check if its value is divisible by k
             
             
         
