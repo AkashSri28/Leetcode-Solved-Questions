@@ -25,5 +25,9 @@ class Solution:
             ans.append(level_max)
         
         return ans
+    
+    # TC: O(n)
+    #     SC: O(n)
+    #         Approach: use BFS to read node at each level and then find max at that level
         
         
