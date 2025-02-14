@@ -21,6 +21,11 @@ class ProductOfNumbers:
             return self.ls[-1]//self.ls[-(k+1)]
         else:
             return self.ls[-1]
+
+    # TC: add - O(1), getProduct - O(1)
+    # SC: O(k)
+    # Approach: if we get a 0 as input, all the products including it will be 0. Hence we can restart the list once we see a 0.
+
         
 
 
