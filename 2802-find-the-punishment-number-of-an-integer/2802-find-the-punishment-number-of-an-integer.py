@@ -21,5 +21,9 @@ class Solution:
 
         return ans
 
+        # TC: O(n*k)
+        # SC: O(1)
+        # Apporach: Break a number in subparts and check subpart sum. If sum is equal to target return true
+
 
         
