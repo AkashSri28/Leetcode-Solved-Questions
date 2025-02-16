@@ -31,4 +31,8 @@ class Solution:
         backtrack(0)
 
         return res
+
+        # TC: O(n^2)
+        # SC: O(1)
+        # Approach: For filling data is res, we can fill max value and check next value. If doesnt work then we need to backtrack
         
