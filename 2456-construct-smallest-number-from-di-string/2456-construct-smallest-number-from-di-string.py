@@ -20,14 +20,7 @@ class Solution:
 
                 else:
                     ch = pattern[index]
-                    if ch == 'I' and i > curr[-1]:
-                        used[i] = True
-                        curr.append(i)
-                        if backtrack(index+1):
-                            return True
-                        used[i] = False
-                        curr.pop()
-                    if ch == 'D' and i < curr[-1]:
+                    if (ch == 'I' and i > curr[-1]) or (ch == 'D' and i < curr[-1]):
                         used[i] = True
                         curr.append(i)
                         if backtrack(index+1):
