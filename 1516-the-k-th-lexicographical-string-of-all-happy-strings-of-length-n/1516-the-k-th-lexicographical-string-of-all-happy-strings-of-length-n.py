@@ -4,7 +4,6 @@ class Solution:
         cnt = [0]
 
         def backtrack(index):
-            nonlocal res
             if index == n:
                 cnt[0] += 1
                 if cnt[0] == k:
