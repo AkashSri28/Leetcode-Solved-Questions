@@ -12,7 +12,7 @@ class Solution:
                 return False
 
             for ch in 'abc':
-                if index > 0 and ch == res[index-1]:
+                if index > 0 and ch == res[-1]:
                     continue
                 res.append(ch)
                 if backtrack(index+1):
