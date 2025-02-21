@@ -28,6 +28,10 @@ class FindElements:
     def find(self, target: int) -> bool:
         return target in self.mem
 
+        # TC: O(n)
+        # SC: O(n)
+        # Approach: Find all valid values and addit in set
+
         
 
 
