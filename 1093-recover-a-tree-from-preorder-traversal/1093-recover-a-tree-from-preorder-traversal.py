@@ -29,4 +29,8 @@ class Solution:
 
         return stack[0]
 
+        # TC: O(n)
+        # SC: O(n)
+        # Approach: Split the traversal string using regular expression. Use stack to construct tree.
+
         
