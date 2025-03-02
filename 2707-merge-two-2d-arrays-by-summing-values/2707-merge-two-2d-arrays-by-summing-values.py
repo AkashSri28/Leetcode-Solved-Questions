@@ -24,4 +24,8 @@ class Solution:
             j += 1
 
         return ans
+
+        # TC: O(m+n)
+        # SC: O(1)
+        # Approach: Similar to creating 1 sorted array from 2 sorted arrays
         
