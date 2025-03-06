@@ -17,6 +17,10 @@ class Solution:
                 ans[1] = i
 
         return ans
+
+        # TC: O(n**2)
+        # SC: O(n**2)
+        # Approach: count occurance to find missing and duplicate number
             
 
         
