@@ -25,6 +25,10 @@ class Solution:
 
         return ans
 
+        # TC: O(nloglogn)
+        # SC: O(n)
+        # Approach: Using Sieve method to find prime numbers. TC of Sieve is O(nloglogn)
+
 
 
 
