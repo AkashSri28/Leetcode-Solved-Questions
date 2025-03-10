@@ -25,6 +25,10 @@ class Solution:
 
         return atleastk(k) - atleastk(k+1)
 
+        # TC: O(n)
+        # SC: O(1)
+        # Approach: Count string with min k and min K+1 vowels. Return the difference
+
             
 
 
