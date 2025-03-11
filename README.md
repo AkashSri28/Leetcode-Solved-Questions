@@ -55,6 +55,7 @@
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2107-find-unique-binary-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -64,6 +65,7 @@
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1160-letter-tile-possibilities) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -116,6 +118,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->
