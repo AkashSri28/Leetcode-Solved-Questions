@@ -16,4 +16,8 @@ class Solution:
                 l += 1
 
         return ans
+
+        # TC: O(n)
+        # SC: O(1)
+        # Approach: Use sliding window to count atleast 1 occurance of abc. Find all strings which satisfy this and update l.
         
