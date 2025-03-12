@@ -18,4 +18,8 @@ class Solution:
 
         
         return pos if pos > neg else neg
+
+        # TC: O(nlogn)
+        # SC: O(1)
+        # Approach: First find the location of number greater than 0, then first first location of number greater than 1 
         
