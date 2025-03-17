@@ -6,3 +6,7 @@ class Solution:
                 return False
 
         return True
+
+        # TC: O(n)
+        # SC: O(n)
+        # Approach: to find a pair, even occurances should be present in nums
