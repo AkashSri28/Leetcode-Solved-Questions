@@ -35,6 +35,10 @@ class Solution:
         
         return ans
 
+        # TC: O(n+q)
+        # SC: O(n)
+        # Approach: A and B is always less than or equal to min(A,B). Find all components, if 2 nodes are in different component then ans = -1. If they are in same component, find & of all nodes in that component
+
 
         
         
