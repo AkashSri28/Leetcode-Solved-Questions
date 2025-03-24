@@ -1,0 +1,21 @@
+class Solution:
+    def countDays(self, days: int, meetings: List[List[int]]) -> int:
+        meetings.sort()
+        stack = []
+        for meeting in meetings:
+            s, e = meeting
+            while stack and stack[-1][1] >= s:
+                last = stack.pop()
+                s, e = min(last[0], s), max(last[1], e)
+            stack.append([s, e])
+
+        ans, last = 0, days
+        while stack:
+            s, e = stack.pop()
+            ans += (last - e)
+            last = s-1
+
+        ans += (last)
+        return ans
+            
+        
