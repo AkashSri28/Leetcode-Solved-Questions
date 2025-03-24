@@ -14,6 +14,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3430-count-days-without-meetings](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -144,4 +145,8 @@
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Sorting
+|  |
+| ------- |
+| [3430-count-days-without-meetings](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3430-count-days-without-meetings) |
 <!---LeetCode Topics End-->
