@@ -9,13 +9,11 @@ class Solution:
                 s, e = min(last[0], s), max(last[1], e)
             stack.append([s, e])
 
-        ans, last = 0, days
+        cnt = 0
         while stack:
             s, e = stack.pop()
-            ans += (last - e)
-            last = s-1
+            cnt += (e - s + 1)
 
-        ans += (last)
-        return ans
+        return days - cnt
             
         
