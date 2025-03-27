@@ -21,6 +21,10 @@ class Solution:
 
         return -1
 
+        # TC: O(n)
+        # SC: O(n)
+        # Approach: If there is an answer it will be the element with max occurances. Find that element. Now check all partitions from left and find where left_total > left and right_total > right
+
 
 
         
