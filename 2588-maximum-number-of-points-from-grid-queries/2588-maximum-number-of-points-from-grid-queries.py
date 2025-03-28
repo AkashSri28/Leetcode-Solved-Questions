@@ -23,6 +23,10 @@ class Solution:
 
         return res
 
+        # TC: O(klogk + m*nlogm*n)
+        # SC: O(m*n)
+        # Approach:we can find what numbers are than current query value and keep increase cnt
+
 
 
         
