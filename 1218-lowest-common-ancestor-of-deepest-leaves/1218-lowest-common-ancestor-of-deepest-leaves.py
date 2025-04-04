@@ -18,4 +18,8 @@ class Solution:
             return [right[0], right[1]+1]
 
         return LCA(root)[0]
+
+        # TC: O(n)
+        # SC: O(n)
+        # Apporach: At each level we will LCA node and height. If we have 2 LCA at same height, then current node is LCA.
         
