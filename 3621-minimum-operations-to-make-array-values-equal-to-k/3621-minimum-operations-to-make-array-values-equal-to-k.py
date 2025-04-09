@@ -9,3 +9,7 @@ class Solution:
                 s.add(num)
 
         return len(s)
+
+        # TC: O(n)
+        # SC: O(n)
+        # Approach: if we see any number less than k, then we can't reach. Now we need to find number of unique numbers greater than k. These are the operations
