@@ -16,3 +16,7 @@ class Solution:
             r -= 1
 
         return True
+
+        # TC: O(n)
+        # SC: O(1)
+        # Approach: we will try to check palindrome. If not we can check (i+1, j) and (i, j-1). If any of this is palindrome then we got the answer
