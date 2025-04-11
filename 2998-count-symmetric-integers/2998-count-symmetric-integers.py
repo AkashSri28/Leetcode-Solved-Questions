@@ -20,5 +20,9 @@ class Solution:
                 cnt += 1
         return cnt
 
+        # TC: O(H*digit)
+        # SC: O(1)
+        # Approach: Iterate over all numbers in range and check the ones which satisfy the condition
+
 
         
