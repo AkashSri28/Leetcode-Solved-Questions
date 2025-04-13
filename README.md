@@ -37,6 +37,7 @@
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2050-count-good-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -186,4 +187,8 @@
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2998-count-symmetric-integers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
