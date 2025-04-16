@@ -20,4 +20,10 @@ class Solution:
 
         return res
 
+        # TC: O(n)
+        # SC: O(n)
+        # Approach: we to find subarray where cnt >= k. Use two pointer technique
+        # To find all pair of num with freq n: n*(n-1)//2
+        # To add new pairs to already existing cnt: cnt += freq[n] - 1
+
         
