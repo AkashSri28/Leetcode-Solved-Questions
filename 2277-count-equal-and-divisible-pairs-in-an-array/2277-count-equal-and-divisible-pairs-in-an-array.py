@@ -1,6 +1,5 @@
 class Solution:
     def countPairs(self, nums: List[int], k: int) -> int:
-        freq = Counter(nums)
         cnt = 0
         n = len(nums)
 
