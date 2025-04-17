@@ -34,4 +34,8 @@ class Solution:
             index_map[nums[i]].append(i)
 
         return cnt
+
+        # TC: O(n^2)
+        # SC: O(n)
+        # Approach: CHeck all the number seen so far and update cnt
         
