@@ -87,6 +87,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0038-count-and-say) |
 | [0680-valid-palindrome-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1160-letter-tile-possibilities) |
