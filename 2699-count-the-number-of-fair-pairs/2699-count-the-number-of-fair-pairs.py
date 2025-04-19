@@ -23,6 +23,11 @@ class Solution:
     #         cnt += (R-L)
 
     #     return cnt
+
+    # TC: O(nlogn)
+    # SC: O(1)
+    # Approach: sort and find all pairs which satisfy the condition, since this needs addition, sorting is possible
+    
     def countFairPairs(self, nums: List[int], lower: int, upper: int) -> int:
         nums.sort()
         return self.countPairs(nums, upper) - self.countPairs(nums, lower-1)
