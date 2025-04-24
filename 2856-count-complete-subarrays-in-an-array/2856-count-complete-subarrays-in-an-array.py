@@ -22,4 +22,8 @@ class Solution:
 
         return ans 
 
+        # TC: O(n)
+        # SC: O(n)
+        # Approach: Using sliding window, calculate unique element count from left to right. Anytime this count equals total unique count, use other pointer and update mem
+
         
