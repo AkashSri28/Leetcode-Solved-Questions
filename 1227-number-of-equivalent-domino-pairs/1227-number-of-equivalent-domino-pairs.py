@@ -1,16 +1,12 @@
 class Solution:
     def numEquivDominoPairs(self, dominoes: List[List[int]]) -> int:
-        mem = defaultdict(int)
-
+        mem = [0]*100
+        ans = 0
         for pair in dominoes:
             u, v = sorted(pair)
-            s = str(u)+""+str(v)
+            s = 10*u + v
             mem[s] += 1
-
-        ans = 0
-        for val in mem.values():
-            if val > 1:
-                ans += (val*(val-1))//2
+            ans += (mem[s]-1)
 
         return ans
         
