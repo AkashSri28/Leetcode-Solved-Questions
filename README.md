@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1656-count-good-triplets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -76,6 +77,7 @@
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2107-find-unique-binary-string) |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
