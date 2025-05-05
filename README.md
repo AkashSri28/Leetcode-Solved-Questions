@@ -200,6 +200,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0806-domino-and-tromino-tiling](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0806-domino-and-tromino-tiling) |
 | [2262-solving-questions-with-brainpower](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2262-solving-questions-with-brainpower) |
 ## Enumeration
 |  |
