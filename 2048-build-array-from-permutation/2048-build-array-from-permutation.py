@@ -8,3 +8,6 @@ class Solution:
 
         return ans
         
+        # TC: O(n)
+        # SC: O(1)
+        # Approach: using enumerate we can find where to number and what number to place
