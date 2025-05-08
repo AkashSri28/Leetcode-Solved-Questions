@@ -30,6 +30,7 @@
 | [3430-count-days-without-meetings](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3430-count-days-without-meetings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Heap (Priority Queue)
 |  |
@@ -37,6 +38,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -195,6 +198,7 @@
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -221,4 +225,5 @@
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 <!---LeetCode Topics End-->
