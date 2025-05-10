@@ -19,4 +19,8 @@ class Solution:
             return -1
 
         return max(n1_sum, n2_sum)
+
+        # TC: O(n)
+        # SC: O(n)
+        # Approach: min sum will equal to curr sum + 0 count. Find scenario where both cant reach this value
         
