@@ -24,6 +24,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3227-find-missing-and-repeated-values](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -128,6 +129,7 @@
 | [0680-valid-palindrome-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Tree
 |  |
 | ------- |
