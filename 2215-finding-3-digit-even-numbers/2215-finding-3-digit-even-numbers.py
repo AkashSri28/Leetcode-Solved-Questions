@@ -1,25 +1,17 @@
 class Solution:
     def findEvenNumbers(self, digits: List[int]) -> List[int]:
-        result = set()
-        n = len(digits)
+        digit_count = Counter(digits)
+        result = []
 
-        for i in range(n):
-            for j in range(n):
-                if j == i:
-                    continue
-                for k in range(n):
-                    if k == i or k == j:
-                        continue
+        for num in range(100, 1000):
+            if num % 2 != 0:
+                continue  # must be even
 
-                    a, b, c = digits[i], digits[j], digits[k]
+            d1, d2, d3 = map(int, str(num))
+            num_count = Counter([d1, d2, d3])
 
-                    if a == 0:
-                        continue  # leading zero
-                    if c % 2 != 0:
-                        continue  # must be even
+            if all(num_count[d] <= digit_count[d] for d in num_count):
+                result.append(num)
 
-                    number = 100 * a + 10 * b + c
-                    result.add(number)
-
-        return sorted(result)
+        return result
         
