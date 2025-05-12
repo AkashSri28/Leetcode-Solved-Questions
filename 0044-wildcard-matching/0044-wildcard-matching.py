@@ -18,7 +18,7 @@ class Solution:
                     if p[j] == '?':
                         dp[(i, j)] = match(i+1, j+1)
                     elif p[j] == '*':
-                        dp[(i, j)] = match(i, j+1) | match(i+1, j+1) | match(i+1, j)
+                        dp[(i, j)] = (match(i, j+1) or match(i+1, j+1) or match(i+1, j))
                     else:
                         if s[i] == p[j]:
                             dp[(i, j)] = match(i+1, j+1)
