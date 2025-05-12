@@ -13,6 +13,7 @@
 | [2048-build-array-from-permutation](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2215-finding-3-digit-even-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2262-solving-questions-with-brainpower](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -90,6 +91,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2107-find-unique-binary-string) |
+| [2215-finding-3-digit-even-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -210,6 +212,7 @@
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2215-finding-3-digit-even-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -225,6 +228,7 @@
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1656-count-good-triplets) |
+| [2215-finding-3-digit-even-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2998-count-symmetric-integers) |
 ## Recursion
 |  |
