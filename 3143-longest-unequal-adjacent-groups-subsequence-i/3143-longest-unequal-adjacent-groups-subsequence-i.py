@@ -13,4 +13,8 @@ class Solution:
 
         return ans
 
+        # TC: O(n)
+        # SC: O(1)
+        # Approach: since we need to take word from alternating group, so find every group and take first word from that group
+
         
