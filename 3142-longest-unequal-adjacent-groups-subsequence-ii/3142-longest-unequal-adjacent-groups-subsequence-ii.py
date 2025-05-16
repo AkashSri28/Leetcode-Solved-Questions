@@ -33,4 +33,8 @@ class Solution:
                 res = dp[i]
         
         return res
+
+        # TC: O(n^2*m)
+        # SC: O(n*m)
+        # Approach: for finding longest increasing sequence build ans from right to left. At each index of dp, store longest path starting from that index
         
