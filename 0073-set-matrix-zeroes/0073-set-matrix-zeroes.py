@@ -39,4 +39,7 @@ class Solution:
         if zero_c:
             for r in range(m):
                 matrix[r][0] = 0
-        
+
+        # TC: O(mn)
+        # SC: O(1)
+        # Approach: Use 1st row and 1st column to store if all values in that row/ column will be 0. For (0,0) use a seperate variable        
