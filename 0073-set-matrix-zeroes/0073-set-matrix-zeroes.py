@@ -3,19 +3,40 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
+        zero_r = zero_c = False
         m, n = len(matrix), len(matrix[0])
-        row, col = [1]*m, [1]*n
-        
-        for i in range(m):
-            for j in range(n):
-                if matrix[i][j] == 0:
-                    row[i] = 0
-                    col[j] = 0
-                    
-        for i in range(m):
-            for j in range(n):
-                if col[j] == 0 or row[i] == 0:
-                    matrix[i][j] = 0
-                    
-                    
+
+        for r in range(m):
+            if matrix[r][0] == 0:
+                zero_c = True
+                break
+
+        for c in range(n):
+            if matrix[0][c] == 0:
+                zero_r = True
+                break
+
+        for r in range(1, m):
+            for c in range(1, n):
+                if matrix[r][c] == 0:
+                    matrix[r][0] = 0
+                    matrix[0][c] = 0
+
+        for r in range(1, m):
+            if matrix[r][0] == 0:
+                for c in range(1, n):
+                    matrix[r][c] = 0
+
+        for c in range(1, n):
+            if matrix[0][c] == 0:
+                for r in range(1, m):
+                    matrix[r][c] = 0
+
+        if zero_r:
+            for c in range(n):
+                matrix[0][c] = 0
+
+        if zero_c:
+            for r in range(m):
+                matrix[r][0] = 0
         
