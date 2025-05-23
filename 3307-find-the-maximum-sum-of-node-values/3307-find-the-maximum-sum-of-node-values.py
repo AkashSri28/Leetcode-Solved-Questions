@@ -10,7 +10,7 @@ class Solution:
         delta.sort(reverse=True)
 
         i = 0
-        while i < n and i+1 < n:
+        while i < n-1:
             s = delta[i]+ delta[i+1]
             if s <= 0:
                 break
