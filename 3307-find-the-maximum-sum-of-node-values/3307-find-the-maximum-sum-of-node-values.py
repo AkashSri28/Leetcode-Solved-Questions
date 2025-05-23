@@ -12,8 +12,9 @@ class Solution:
         i = 0
         while i < n and i+1 < n:
             s = delta[i]+ delta[i+1]
-            if s > 0:
-                res += s
+            if s <= 0:
+                break
+            res += s
             i += 2
 
         return res
