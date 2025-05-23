@@ -17,4 +17,8 @@ class Solution:
             i += 2
 
         return res
+
+        # TC: O(nlogn)
+        # SC: O(n)
+        # Approach:if we change a node 2 times, it will return to its original value. Hence we will try update only a value once but in pairs. Update all values and check what values will contribute in updating res
         
