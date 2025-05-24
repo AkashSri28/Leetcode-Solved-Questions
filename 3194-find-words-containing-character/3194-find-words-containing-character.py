@@ -5,3 +5,7 @@ class Solution:
             if x in set(word):
                 ans.append(index)
         return ans
+
+        # TC: O(n)
+        # SC: O(1)
+        # Approach: Check if x exists in all words, store index if x in word
