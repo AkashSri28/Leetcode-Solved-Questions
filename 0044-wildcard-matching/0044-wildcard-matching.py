@@ -22,3 +22,7 @@ class Solution:
             return dp[i][j]
 
         return match(0, 0)
+
+        # TC: O(m*n)
+        # SC: O(m*n)
+        # Approach: every state (i, j) tells if [0..i] and [0..j] matches
