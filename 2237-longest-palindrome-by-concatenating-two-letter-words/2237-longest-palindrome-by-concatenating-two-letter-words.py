@@ -5,7 +5,7 @@ class Solution:
 
         for word in words:
             rev_w = word[::-1]
-            if rev_w in mem and mem[rev_w] > 0:
+            if mem[rev_w] > 0:
                 ans += 4
                 mem[rev_w] -= 1
             else:
