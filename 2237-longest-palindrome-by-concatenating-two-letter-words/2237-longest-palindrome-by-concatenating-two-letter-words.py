@@ -18,3 +18,7 @@ class Solution:
 
         return ans
 
+        # TC: O(n)
+        # SC: O(n)
+        # Approach: we need to find word and its reverse, hence map will be used to track history. Now if a word has both char equal it can be placed in middle after using all pairs
+
