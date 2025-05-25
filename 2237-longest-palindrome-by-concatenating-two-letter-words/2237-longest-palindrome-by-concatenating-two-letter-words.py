@@ -2,8 +2,6 @@ class Solution:
     def longestPalindrome(self, words: List[str]) -> int:
         mem = defaultdict(int)
         ans = 0
-        
-        words.sort()
 
         for word in words:
             rev_w = word[::-1]
