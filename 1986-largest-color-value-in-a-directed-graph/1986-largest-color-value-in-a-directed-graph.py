@@ -35,4 +35,8 @@ class Solution:
         
         return ans
 
+        # TC: O(N*26)
+        # SC: O(N*26)
+        # Approach: for each node store the color count till that node, and store max color freq at that node
+
             
