@@ -104,6 +104,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2107-find-unique-binary-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -144,6 +145,7 @@
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -240,6 +242,7 @@
 ## Graph
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -261,6 +264,7 @@
 | [0044-wildcard-matching](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0045-jump-game-ii) |
 | [0806-domino-and-tromino-tiling](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0806-domino-and-tromino-tiling) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -288,4 +292,12 @@
 |  |
 | ------- |
 | [3637-count-number-of-balanced-permutations](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3637-count-number-of-balanced-permutations) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
