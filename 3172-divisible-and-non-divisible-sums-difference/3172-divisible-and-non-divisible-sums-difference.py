@@ -10,4 +10,8 @@ class Solution:
                 
         return s - 2*s2
 
+        # TC: O(m)
+        # SC: O(1)
+        # Approach: only find those numbers which are divisible by m and deduct from total sum
+
         
