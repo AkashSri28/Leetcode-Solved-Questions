@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -161,6 +162,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -267,6 +269,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0055-jump-game) |
 | [0806-domino-and-tromino-tiling](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0806-domino-and-tromino-tiling) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2262-solving-questions-with-brainpower) |
