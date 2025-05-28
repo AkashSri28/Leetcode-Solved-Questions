@@ -49,6 +49,10 @@ class Solution:
 
         return nodes_cnt
 
+        # TC: O(m^2 + n^2)
+        # SC: O(m*n)
+        # Approach: we need max count of nodes which are at distance k-1 in tree2. Find node count in tree1 within distance k. Now add this count to max_cnt from tree2
+
         
 
         
