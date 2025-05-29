@@ -47,4 +47,8 @@ class Solution:
                 ans.append(cnt_b1+cnt2)
 
         return ans
+
+        # TC: O(M+N)
+        # SC: O(M+N)
+        # Approach: since we need to count odd and even nodes, we can color then to identify their count. Once we color, we can check count of each color in tree
         
