@@ -25,6 +25,10 @@ class Solution:
                 ans = i
 
         return ans
+
+        # TC: O(n)
+        # SC: O(n)
+        # Aproach: Find distance from node1 and node2 to all other nodes. Find point where both have a path, != -1. Then find max distance and check if it is less than curr max
             
 
         
