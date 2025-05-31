@@ -1,26 +1,5 @@
 class Solution:
     def snakesAndLadders(self, board: List[List[int]]) -> int:
-        # n = len(board)
-        # q = deque()
-        # q.append((1, 0))
-        # vis = set()
-        # while q:
-        #     node, cnt = q.popleft()
-        #     if node == n*n:
-        #         return cnt
-        #     vis.add(node)
-        #     i = (n-1)-(node-1)//n
-        #     j = (node-1)%n
-        #     if (n-1-i)&1 == 1:
-        #         j = n-1-j
-        #     if board[i][j] != -1:
-        #         q.append((board[i][j], cnt))
-        #     else:
-        #         for k in range(node+1, min(node+7, n*n+1)):
-        #             if k not in vis:
-        #                 q.append((k, cnt+1))
-
-        # return -1
         n = len(board)
         
         def get_rc(pos):
@@ -45,6 +24,11 @@ class Solution:
                     q.append((dest, moves + 1))
 
         return -1
+
+        # TC: O(N*N)
+        # SC: O(N*N)
+        # Approach: visited every node. For snake and ladder dont count step
+
 
 
         
