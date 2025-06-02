@@ -37,6 +37,10 @@ class Solution:
 
         return res
 
+        # TC: O(n)
+        # SC: O(n)
+        # Approach: first satisfy for left side elements then satisfy for right side elements
+
 
 
 
