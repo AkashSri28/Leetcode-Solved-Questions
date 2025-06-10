@@ -8,8 +8,8 @@ class Solution:
             else:
                 even_freq = min(even_freq, val)
 
-        if even_freq == float('inf'):
-            even_freq = 0
+        # if even_freq == float('inf'):
+        #     even_freq = 0
 
         return odd_freq-even_freq
 
