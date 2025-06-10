@@ -3,7 +3,7 @@ class Solution:
         freq = Counter(s)
         odd_freq, even_freq = 0, float('inf')
         for val in freq.values():
-            if val&1 == 1:
+            if val%2 == 1:
                 odd_freq = max(odd_freq, val)
             else:
                 even_freq = min(even_freq, val)
