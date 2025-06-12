@@ -9,4 +9,8 @@ class Solution:
 
         return ans
 
+        # TC: O(n)
+        # SC: O(1)
+        # Approach: keep calculating current number and next number difference
+
         
