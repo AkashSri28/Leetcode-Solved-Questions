@@ -48,6 +48,7 @@
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
