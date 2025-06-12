@@ -1,10 +1,9 @@
 class Solution:
     def maxAdjacentDistance(self, nums: List[int]) -> int:
         n = len(nums)
-        ans = -1
-        for i in range(n):
-            j = (i+1)%n
-            diff = abs(nums[i]-nums[j])
+        ans = abs(nums[n-1]-nums[0])
+        for i in range(n-1):
+            diff = abs(nums[i]-nums[i+1])
             ans = max(ans, diff)
 
         return ans
