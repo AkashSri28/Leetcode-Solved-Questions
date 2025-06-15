@@ -45,6 +45,9 @@ class Solution:
                 c = -1
         return int(''.join(map(str, ans)))
 
+        # TC: O(d)
+        # SC: O(d)
+        # Approach: For max number, find first non 9 and update to 9. For min number, if first element is not 1, convert it to 1, else convert first non 0 or 1 number to 0
 
 
         
