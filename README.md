@@ -19,6 +19,7 @@
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2048-build-array-from-permutation](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2107-find-unique-binary-string) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
