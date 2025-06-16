@@ -7,4 +7,8 @@ class Solution:
             left = min(left, nums[i])
 
         return diff
+
+        # TC: O(n)
+        # SC: O(1)
+        # Approach: we need to store smallest number on left and check with every number and calculate difference
         
