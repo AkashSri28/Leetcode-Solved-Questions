@@ -12,4 +12,8 @@ class Solution:
                 cnt[i] = 1+cnt[i+1]
 
         return sum(cnt)
+
+        # TC: O(n)
+        # SC: O(n)
+        # Approach: First maintain balance from left, then check and update balance from right side
         
