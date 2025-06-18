@@ -13,4 +13,8 @@ class Solution:
         
         return ans
 
+        # TC: O(nlogn)
+        # SC: O(n)    TimSort needs O(n) space
+        # Approach: To minimise the difference sort array, and check difference of 1st and last element in triplet 
+
         
