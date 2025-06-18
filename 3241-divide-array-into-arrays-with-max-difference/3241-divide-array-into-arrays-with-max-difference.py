@@ -7,14 +7,10 @@ class Solution:
         i = 0
         while i < n:
             if nums[i+2] - nums[i] > k:
-                return ans
-            i = i+3
-
-        i = 0
-        while i < n:
+                return []
             row = nums[i:i+3]
             ans.append(row)
-            i += 3
+            i = i+3
         
         return ans
 
