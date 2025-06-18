@@ -32,3 +32,9 @@ class Solution:
         result = (result * power(m - 1, n - k - 1)) % MOD
 
         return result
+
+        # TC: O(n)
+        # SC: O(n)
+        # Approach: There can be (n-1) pairs, we need k pairs, so we can choose any k pair from n-1, n-1Ck
+        # for filling elements in this, k places will have 1 choice, due to pair
+        # m choice for 1 place, for remaining n-k-1 we will have m-1 choices
