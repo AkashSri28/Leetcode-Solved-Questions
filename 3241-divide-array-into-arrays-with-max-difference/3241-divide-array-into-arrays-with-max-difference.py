@@ -8,8 +8,7 @@ class Solution:
         while i < n:
             if nums[i+2] - nums[i] > k:
                 return []
-            row = nums[i:i+3]
-            ans.append(row)
+            ans.append([nums[i], nums[i + 1], nums[i + 2]])
             i = i+3
         
         return ans
