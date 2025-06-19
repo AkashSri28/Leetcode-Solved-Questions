@@ -12,4 +12,8 @@ class Solution:
             i = j
         
         return ans
+
+        # TC: O(nlogn)
+        # SC: O(n)    # Tim sort uses O(n) space
+        # Approach: Sort and find subarray which satisfy the condition
         
