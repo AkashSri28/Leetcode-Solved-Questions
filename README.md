@@ -28,6 +28,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -187,6 +188,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -291,6 +293,7 @@
 | [0179-largest-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
