@@ -21,6 +21,10 @@ class Solution:
 
         return ans
 
+        # TC: O(N)
+        # SC: O(1)
+        # Approach: Find MD while moving from left to right, whenever MD is less than steps, we can use k there. Max 2*k can be added to MD and we have steps-MD available to update
+
 
         
 
