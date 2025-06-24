@@ -30,3 +30,7 @@ class Solution:
                     ans.append(j)
 
         return ans
+
+        # TC: O(n)
+        # SC: O(1)
+        # Approach: From left check for key, take 2 pointers to mark start and end pointers
