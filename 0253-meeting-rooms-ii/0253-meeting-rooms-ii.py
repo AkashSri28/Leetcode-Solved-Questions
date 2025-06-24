@@ -23,3 +23,7 @@ class Solution:
 
         return ans
 
+        # TC: O(nlogn)
+        # SC: O(n)
+        # Approach: Sort start and end times seperately. Now traverse both in parallel and increase cnt when meeting starts and decrease cnt when meeting ends
+
