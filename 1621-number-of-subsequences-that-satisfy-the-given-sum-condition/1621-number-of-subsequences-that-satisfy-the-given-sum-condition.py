@@ -2,15 +2,14 @@ class Solution:
     def numSubseq(self, nums: List[int], target: int) -> int:
         ans = 0
         n = len(nums)
-        mem = dict()
+        mod = 10**9+7
 
-        def power2(i):
-            if i not in mem:
-                mem[i] = 2**i
-            return mem[i]
+        # Precompute all powers of 2 up to n
+        power = [1] * (n)
+        for i in range(1, n):
+            power[i] = (power[i - 1] * 2) % mod
 
         nums.sort()
-        mod = 10**9+7
         for i in range(n):
             if nums[i]*2 > target:
                 break
@@ -23,7 +22,11 @@ class Solution:
                     l = m+1
                 else:
                     r = m-1
-            ans = (ans+power2(j-i))%mod
+            ans = (ans + power[j - i]) % mod
 
         return ans
+
+        # TC: O(nlogn)
+        # SC: O(n)
+        # Approach: For each number check which last element can form a solution with this. For this we can use binary search to find last element. 
         
