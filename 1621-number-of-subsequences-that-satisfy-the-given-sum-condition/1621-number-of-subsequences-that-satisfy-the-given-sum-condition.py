@@ -28,5 +28,5 @@ class Solution:
 
         # TC: O(nlogn)
         # SC: O(n)
-        # Approach: For each number check which last element can form a solution with this. For this we can use binary search to find last element. 
+        # Approach: For each number check which last element can form a solution with this. For this we can use binary search to find last element. Now number of combinations = 2**(j-i), 1st number will stay in combination, others may or may not be there [3, .....]. Calculating power of 2 early help in improving complexity
         
