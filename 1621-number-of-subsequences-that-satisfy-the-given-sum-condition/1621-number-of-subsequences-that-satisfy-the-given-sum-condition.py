@@ -2,6 +2,13 @@ class Solution:
     def numSubseq(self, nums: List[int], target: int) -> int:
         ans = 0
         n = len(nums)
+        mem = dict()
+
+        def power2(i):
+            if i not in mem:
+                mem[i] = 2**i
+            return mem[i]
+
         nums.sort()
         mod = 10**9+7
         for i in range(n):
@@ -16,7 +23,7 @@ class Solution:
                     l = m+1
                 else:
                     r = m-1
-            ans = (ans%mod + pow(2, j-i)%mod)%mod
+            ans = (ans+power2(j-i))%mod
 
         return ans
         
