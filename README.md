@@ -92,6 +92,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3637-count-number-of-balanced-permutations) |
@@ -307,6 +308,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -372,6 +374,7 @@
 | [0044-wildcard-matching](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0044-wildcard-matching) |
 | [2050-count-good-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Shortest Path
 |  |
 | ------- |
