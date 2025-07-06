@@ -23,6 +23,10 @@ class FindSumPairs:
                 ans += self.dict1[k]*self.dict2[t]
         return ans
 
+    # TC: O(n+m+q1+q2*n)          n+m storing elements in dict, q1 for updating value at index in nums2, q2*n for each query we will go through all keys in dict1
+    # SC: O(n+m)
+    # Approach: since nums1 is never updated and we need to find pairs with given sum, this is a 2 sum problem, hence using hashmap. For add, update element in nums2 but before that update freq of element in dict2. For count iterate over 2 dicts and find pairs by multiplying frequencies
+
 
 # Your FindSumPairs object will be instantiated and called as such:
 # obj = FindSumPairs(nums1, nums2)
