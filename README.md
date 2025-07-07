@@ -21,6 +21,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1293-three-consecutive-odds) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1656-count-good-triplets) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0253-meeting-rooms-ii) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -220,6 +222,7 @@
 | [0316-remove-duplicate-letters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0680-valid-palindrome-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -337,6 +340,7 @@
 | [0253-meeting-rooms-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0253-meeting-rooms-ii) |
 | [0280-wiggle-sort](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0280-wiggle-sort) |
 | [0594-longest-harmonious-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2215-finding-3-digit-even-numbers) |
