@@ -26,6 +26,10 @@ class Solution:
 
         return ans
 
+        # TC: O(n+k)
+        # SC: O(k)
+        # Approach: lets call each hole as F1, F2, F3. Everytimewe shift one event, we can merge 2 intervals. If we shift 2 events, we can merge 3 intervals. Since here we can shift k events, we can merge k+1 intervals. Use sliding window to find k+1 size interval with max sum
+
 
 
 
