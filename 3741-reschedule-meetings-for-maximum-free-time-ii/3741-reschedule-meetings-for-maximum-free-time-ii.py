@@ -25,4 +25,11 @@ class Solution:
 
         return ans
 
+        # TC: O(n)
+        # SC: O(n)
+        # Approach: Each interval has 2 choices, it can slide to its right or left, or move to some gap on its right or left
+        # 1st part, if we want to slide it to its right or left, we will get gap size left+right, whether we slide left or right
+        # 2nd part we can move it to some gap on left and right, then we get left+right+interval size gap. Now to move it to some gap, we need to know if there exists a gap which can accomodate this. Use prefix sum to find max gap size on left and right
+
+
         
