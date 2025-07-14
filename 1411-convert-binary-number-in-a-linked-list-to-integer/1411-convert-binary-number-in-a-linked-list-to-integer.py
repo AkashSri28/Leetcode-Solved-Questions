@@ -11,4 +11,8 @@ class Solution:
             head = head.next
 
         return curr
+
+        # TC: O(n)
+        # SC: O(1)
+        # Approach: we can iterate over LL and find bits, when a new bit is added, current value is multiplied with 2
         
