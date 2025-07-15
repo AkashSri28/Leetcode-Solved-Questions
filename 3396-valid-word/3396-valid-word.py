@@ -12,6 +12,9 @@ class Solution:
                 else:
                     c = True
         return (v and c)
+
+        # TC: O(n)
+        # SC: O(1)
             
             
 
