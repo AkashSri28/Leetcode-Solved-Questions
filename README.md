@@ -57,6 +57,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3430-count-days-without-meetings) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -373,6 +374,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
