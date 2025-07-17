@@ -14,4 +14,8 @@ class Solution:
         
         return res+1
 
+        # TC: O(n^2)
+        # SC: O(n*k)
+        # Approach: there can [0....k-1] results when dividing by k. We can group pairs resulting same value after mod together. To store that use 2D matrix to count the numbers with same value after mod
+
         
