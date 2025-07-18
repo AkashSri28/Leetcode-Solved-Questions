@@ -35,6 +35,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-solving-questions-with-brainpower](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0253-meeting-rooms-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -371,6 +373,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0806-domino-and-tromino-tiling) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
