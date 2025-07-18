@@ -29,3 +29,7 @@ class Solution:
             ans = min(ans, left[i]-right[i+1])
 
         return ans
+
+        # TC: O(3*n)
+        # SC: O(3*n)
+        # Approach: In worst case we can include will 2n index in left array. So till 2nd check min possible value at each index. Similarly do it from right. Now find this difference at index i
