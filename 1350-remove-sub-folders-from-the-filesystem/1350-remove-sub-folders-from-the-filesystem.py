@@ -32,5 +32,9 @@ class Solution:
 
         return ans
 
+        # TC: O(nlogn+max(f))
+        # SC: O(n*l)
+        # Approach: Since we need to match prefixes, Trie will be used here. We will sort folders so that smaller length is picked first. Now create a Trie and iterate for folder. If we encounter end and folder has some path left means we have reached here earlier and end means a folder ended here. So our current folder is a sub folder. We wont add it to ans
+
 
         
