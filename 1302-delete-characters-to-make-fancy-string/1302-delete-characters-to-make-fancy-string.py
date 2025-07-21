@@ -2,17 +2,17 @@ class Solution:
     def makeFancyString(self, s: str) -> str:
         i = 0
         n = len(s)
-        ans = []
+        ans = ""
         while i < n:
             j = i
-            cnt = 0
+            cnt = 1
             while j < n and s[j] == s[i]:
-                if cnt < 2:
-                    ans.append(s[j])
+                if cnt < 3:
+                    ans += s[j]
                     cnt += 1
                 j += 1
             i = j
-        return ''.join(ans)
+        return ans
 
         # TC: O(n)
         # SC: O(1)
