@@ -14,4 +14,8 @@ class Solution:
             i = j
         return ''.join(ans)
 
+        # TC: O(n)
+        # SC: O(1)
+        # Aprroach: tranverse from left to right and for every character check until that char is repeated. When the count is less than 3 add char to ans, else ignore.
+
         
