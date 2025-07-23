@@ -24,4 +24,8 @@ class Solution:
         ans += find_score(s2, min(x, y))
 
         return ans
+
+        # TC: O(n)
+        # SC: O(n)
+        # Approach: We can remove ab in 1st iteration and ba in 2nd iteration. If y is greater than x then remove ba first and ab next
         
