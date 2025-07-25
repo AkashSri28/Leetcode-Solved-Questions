@@ -10,4 +10,8 @@ class Solution:
         if res == 0:
             res = max(nums)
         return res
+
+        # TC: O(n)
+        # SC: O(1)
+        # Approach: We need to add only positive integers to increase sum. All since each element can be added only once, maintain a set. For edge case when all elements are negative, return max(nums)
         
