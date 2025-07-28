@@ -12,5 +12,9 @@ class Solution:
 
         return dp(0,0)
 
+        # TC: O(2**n)
+        # SC: O(n)
+        # Approach: max possible or will be or of all values. Now we use recursion by selecting and ignoring elements to find if we are able to reach max_or
+
 
         
