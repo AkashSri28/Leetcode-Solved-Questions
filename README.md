@@ -15,6 +15,7 @@
 | [0179-largest-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
 | [0253-meeting-rooms-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0253-meeting-rooms-ii) |
 | [0280-wiggle-sort](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0280-wiggle-sort) |
+| [0321-create-maximum-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0321-create-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -228,6 +229,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0321-create-maximum-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
@@ -243,6 +245,7 @@
 | [0253-meeting-rooms-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0253-meeting-rooms-ii) |
 | [0280-wiggle-sort](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0280-wiggle-sort) |
 | [0316-remove-duplicate-letters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0321-create-maximum-number) |
 | [0680-valid-palindrome-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -303,6 +306,7 @@
 | [0027-remove-element](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0253-meeting-rooms-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0253-meeting-rooms-ii) |
+| [0321-create-maximum-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0321-create-maximum-number) |
 | [0680-valid-palindrome-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -457,6 +461,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0321-create-maximum-number) |
 ## Linked List
 |  |
 | ------- |
