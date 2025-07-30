@@ -32,3 +32,7 @@ class Solution:
 
         return ans
 
+        # TC: O(k*(m+n)*k)
+        # SC: O(m+n)
+        # Approach: To create an array of k elements we need k elements combined from nums1 and nums2. We will check all possible combination of contribution from nums1 and nums2. Now if we get an array of size, we will compare and store lexicographically largest array
+
