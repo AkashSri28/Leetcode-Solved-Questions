@@ -17,6 +17,7 @@
 | [0280-wiggle-sort](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0280-wiggle-sort) |
 | [0321-create-maximum-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0321-create-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -351,6 +352,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -402,6 +404,7 @@
 | [0055-jump-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0806-domino-and-tromino-tiling](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0806-domino-and-tromino-tiling) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
