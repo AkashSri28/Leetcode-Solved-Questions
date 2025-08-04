@@ -19,4 +19,8 @@ class Solution:
 
         return ans
 
+        # TC: O(n)
+        # SC: O(1)
+        # Approach: we need to find longest subarray where at most 2 distinct elements are present. So we count frequency of elements and once frequency exceeds 2, we start moving other pointer (which is j) untill freq <= 2. i-j+1 will give current element count
+
         
