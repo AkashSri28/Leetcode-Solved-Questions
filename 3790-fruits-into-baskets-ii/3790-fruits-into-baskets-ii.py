@@ -11,4 +11,8 @@ class Solution:
 
         return n-sum(state)
 
+        # TC: O(n^2)
+        # SC: O(1)
+        # Approach: For each fruit, we will check from left to right and whichever basket is unused, we will mark it used. Count unused baskets in the end.
+
         
