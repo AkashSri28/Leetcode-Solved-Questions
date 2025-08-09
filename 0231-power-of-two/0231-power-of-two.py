@@ -3,7 +3,6 @@ class Solution:
         if n <= 0:
             return False
         num = 1
-        n = abs(n)
         p = 1
         while num < n:
             num = pow(2, p)
