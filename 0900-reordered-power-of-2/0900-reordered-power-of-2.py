@@ -12,4 +12,8 @@ class Solution:
                 return True
         return False
 
+        # TC: O(d*31)
+        # SC: O(d)
+        # Approach: to compare 2 numbers we can check their sorted representations.
+
         
