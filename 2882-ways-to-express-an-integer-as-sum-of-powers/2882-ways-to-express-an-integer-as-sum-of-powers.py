@@ -33,4 +33,8 @@ class Solution:
         #         dp[s] = (dp[s] + dp[s - p]) % MOD
 
         # return dp[n]
+
+        # TC: O(n*num)
+        # SC: O(n*num)
+        # Approach: we can choose to take or not take a number. If we reach 0 then its a valid path, we can return a 1
         
