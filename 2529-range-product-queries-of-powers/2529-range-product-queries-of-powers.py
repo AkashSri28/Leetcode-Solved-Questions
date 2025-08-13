@@ -21,3 +21,7 @@ class Solution:
             ans.append(num)
 
         return ans
+
+        # TC: O(q*32)
+        # # SC: O(32)   Since state array will have max 32 values
+        # Approach: To find number as power of 2, find all set bits in its binary representation.  
