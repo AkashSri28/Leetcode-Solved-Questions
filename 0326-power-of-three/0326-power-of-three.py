@@ -5,6 +5,7 @@ class Solution:
         #     num *= 3
         # return num == n
 
+        # Approach 2 (follow up)
         MAX_POWER_OF_3 = 1162261467
         return n > 0 and MAX_POWER_OF_3 % n == 0
 
