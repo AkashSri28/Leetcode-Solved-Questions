@@ -1,19 +1,16 @@
 class Solution:
     def productQueries(self, n: int, queries: List[List[int]]) -> List[int]:
         mod = 1000000007
-        bin = []
-        while n >= 2:
-            bin.append(n%2)
-            n //= 2
-        
-        bin.append(n)
-        # print(bin)
-        
+        i = 0
         state = [1]
-        for i in range(len(bin)):
-            if bin[i] == 1:
-                state.append(pow(2, i)%mod)
-                state[-1] = (state[-1]*state[-2])%mod
+        while n > 0:
+            if n & 1 == 1:
+                state.append(pow(2, i))
+                state[-1] *= state[-2]
+            i += 1
+            n = n>>1
+
+        print(state)
 
         ans = []
 
