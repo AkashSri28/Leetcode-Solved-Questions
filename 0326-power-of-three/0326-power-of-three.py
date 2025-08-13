@@ -5,4 +5,8 @@ class Solution:
             num *= 3
         return num == n
 
+        # TC: O(log3 n)
+        # SC: O(1)
+        # Approach: Take number num and keep multiplying it with 3 until num < n. Once num reaches n, check if num == n, else return False
+
         
