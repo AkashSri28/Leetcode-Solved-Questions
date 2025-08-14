@@ -210,6 +210,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2107-find-unique-binary-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2107-find-unique-binary-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
