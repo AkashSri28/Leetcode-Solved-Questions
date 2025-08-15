@@ -196,6 +196,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
@@ -248,6 +249,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0321-create-maximum-number) |
@@ -427,6 +429,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0055-jump-game) |
