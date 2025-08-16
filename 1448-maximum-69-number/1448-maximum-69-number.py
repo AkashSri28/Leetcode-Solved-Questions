@@ -8,5 +8,9 @@ class Solution:
         # return int(''.join(s_num))
         return int(str(num).replace("6", "9", 1))
 
+        # TC: O(d)
+        # SC: O(d)
+        # Approach: Check from left to right and replace first 9 with 6
+
 
         
