@@ -1,26 +1,17 @@
 class Solution:
     def new21Game(self, n: int, k: int, maxPts: int) -> float:
-        if k == 0 or n >= k - 1 + maxPts:
-            return 1.0
-
-        dp = [0.0] * maxPts
-        dp[0] = 1.0
-
-        window_sum = 1.0
-        result = 0.0
-
-        for i in range(1, n + 1):
-            prob = window_sum / maxPts
-
-            if i < k:
-                window_sum += prob
+        dp = dict()
+        window_sum = 0
+        for i in range(k, k+maxPts):
+            if i <= n:
+                dp[i] = 1
+                window_sum += 1
             else:
-                result += prob
+                dp[i] = 0
 
-            if i >= maxPts:
-                window_sum -= dp[i % maxPts]
+        for i in range(k-1, -1, -1):
+            dp[i] = window_sum/maxPts
+            window_sum = window_sum + dp[i] - dp[i+maxPts]
 
-            dp[i % maxPts] = prob
-
-        return result
+        return dp[0]
         
