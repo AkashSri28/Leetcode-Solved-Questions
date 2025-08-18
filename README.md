@@ -19,6 +19,7 @@
 | [0321-create-maximum-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0945-snakes-and-ladders) |
@@ -108,6 +109,7 @@
 | [0231-power-of-two](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0900-reordered-power-of-2) |
@@ -154,6 +156,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
