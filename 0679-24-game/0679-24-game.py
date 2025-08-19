@@ -35,6 +35,10 @@ class Solution:
             return False
 
         return helper(cards)
+
+        # TC: O(n^3)
+        # SC: O(n)
+        # Approach: we can apply all possible combinations between all pairs and reduce cards length. FInally when cards length is 1, check if number stored is 24
         
 
         
