@@ -51,6 +51,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2529-range-product-queries-of-powers) |
@@ -120,6 +121,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
