@@ -2,68 +2,39 @@ from typing import List
 
 class Solution:
     def judgePoint24(self, cards: List[int]) -> bool:
-        EPS = 1e-6
+        e = 1/1000000
+        def helper(cards):
+            n = len(cards)
+            if n == 1:
+                if abs(cards[0] - 24) <= e:
+                    return True
+                return False
 
-        def can_make_24(nums: List[float]) -> bool:
-            if len(nums) == 1:
-                return abs(nums[0] - 24.0) < EPS
-            # Try all unordered pairs (i, j), i != j
-            n = len(nums)
             for i in range(n):
-                for j in range(n):
-                    if i == j:
-                        continue
-                    # Build the next list without i and j
-                    next_nums = []
+                for j in range(i+1, n):
+                    a, b = cards[i], cards[j]
+                    poss = []
+                    poss.append(a+b)
+                    poss.append(a*b)
+                    poss.append(a-b)
+                    poss.append(b-a)
+                    if abs(b) > 0:
+                        poss.append(a/b)
+                    if abs(a) > 0:
+                        poss.append(b/a)
+
+                    rest = []
                     for k in range(n):
-                        if k != i and k != j:
-                            next_nums.append(nums[k])
+                        if k == i or k == j:
+                            continue
+                        rest.append(cards[k])
 
-                    a, b = nums[i], nums[j]
-
-                    # For + and * (commutative), we can enforce i < j to cut duplicates.
-                    # But since we loop both i, j, we can still try all; small input keeps it fast.
-
-                    # 1) a + b
-                    next_nums.append(a + b)
-                    if can_make_24(next_nums):
-                        return True
-                    next_nums.pop()
-
-                    # 2) a - b
-                    next_nums.append(a - b)
-                    if can_make_24(next_nums):
-                        return True
-                    next_nums.pop()
-
-                    # 3) b - a
-                    next_nums.append(b - a)
-                    if can_make_24(next_nums):
-                        return True
-                    next_nums.pop()
-
-                    # 4) a * b
-                    next_nums.append(a * b)
-                    if can_make_24(next_nums):
-                        return True
-                    next_nums.pop()
-
-                    # 5) a / b
-                    if abs(b) > EPS:
-                        next_nums.append(a / b)
-                        if can_make_24(next_nums):
+                    for p in poss:
+                        if helper(rest+[p]):
                             return True
-                        next_nums.pop()
-
-                    # 6) b / a
-                    if abs(a) > EPS:
-                        next_nums.append(b / a)
-                        if can_make_24(next_nums):
-                            return True
-                        next_nums.pop()
-
             return False
 
-        return can_make_24([float(x) for x in cards])
+        return helper(cards)
+        
 
         
