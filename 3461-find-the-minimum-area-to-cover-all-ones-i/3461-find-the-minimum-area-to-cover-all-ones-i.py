@@ -40,6 +40,10 @@ class Solution:
 
         return (maxRow - minRow + 1) * (maxCol - minCol + 1)
 
+        # TC: O(m*n)
+        # SC: O(1)
+        # Approach: Find endpoints of 1 in horizontal and vertical directions
+
         
 
 
