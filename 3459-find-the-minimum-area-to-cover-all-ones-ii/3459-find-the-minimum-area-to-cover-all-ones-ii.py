@@ -51,6 +51,10 @@ class Solution:
         area = min(area, gridMinimumArea(transpose(grid)))
         return area
 
+        # TC: O(m**2*n**2)
+        # SC: O(m*n)
+        # Approach: we can convert a matrix into 2 parts, be drawing 1 line. Similarly for making 3 rectangles, we need to draw 2 lines. If we draw 1 horizontal line, we can draw vertical line above or below it or another horizontal line below it. Now find minimumArea of all 3 rectangles created
+
         
 
         
