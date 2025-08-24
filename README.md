@@ -30,6 +30,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1813-maximum-erasure-value) |
@@ -370,6 +371,7 @@
 | [0867-new-21-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -450,6 +452,7 @@
 | [0826-soup-servings](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
