@@ -1,6 +1,5 @@
 class Solution:
-    def isValidSudoku(self, board: List[List[str]]) -> bool:
-        
+    def isValidSudoku(self, board: List[List[str]]) -> bool:        
         def validMatrix(r1, r2, c1, c2):
             temp = [0]*10
             for i in range(r1, r2+1):
@@ -29,4 +28,8 @@ class Solution:
                     return False
 
         return True
+
+        TC: O(1)
+        SC: O(1)
+
         
