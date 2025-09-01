@@ -3,6 +3,7 @@ class Solution:
         heap = []
         def gain(p, t):
             return (p+1)/(t+1) - p/t
+
         for c in classes:
             p, t = c
             r = gain(p, t)
@@ -17,8 +18,8 @@ class Solution:
 
         n = len(classes)
         s = 0
-        while heap:
-            r, (p, t) = heapq.heappop(heap)
+        for i in range(n):
+            r, (p, t) = heap[i]
             s += p/t
 
         return s/n
