@@ -24,6 +24,10 @@ class Solution:
 
         return s/n
 
+        # TC: O(n+e*logn+n)
+        # SC: O(n)
+        # Approach: we need to update classes where difference after addition will be maximum. So we need to get values by gain. We need to maximum overall pass ratio and not individual pass ratios 
+
 
 
 
