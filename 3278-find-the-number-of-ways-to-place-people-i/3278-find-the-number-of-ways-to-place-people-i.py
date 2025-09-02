@@ -19,4 +19,8 @@ class Solution:
                         break
                 
         return ans
+
+        # TC: O(nlogn + n**2)
+        # SC: O(1)
+        # Approach: Sort to check points from left. Keep track of tallest point in between. If the tallest point is less than bottomY, then count this pair
         
