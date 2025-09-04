@@ -27,8 +27,10 @@ class MyQueue:
 
 
 # Your MyQueue object will be instantiated and called as such:
-# obj = MyQueue()
-# obj.push(x)
-# param_2 = obj.pop()
-# param_3 = obj.peek()
-# param_4 = obj.empty()
+# obj = MyQueue()           TC
+# obj.push(x)               O(1)
+# param_2 = obj.pop()       O(n) or O(1)
+# param_3 = obj.peek()      O(n) or O(1)
+# param_4 = obj.empty()     O(1)
+
+# Approach: we will use 2 stacks here, s1 for push and s2 for pop. If s2 is empty, we will transfer all elements from s1 into s2
