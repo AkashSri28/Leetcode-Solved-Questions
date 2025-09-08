@@ -22,4 +22,12 @@ class Solution:
             ans += find_ops(q[0], q[1])
         return ans
 
+        # TC: O(q*log4 r)
+        # SC: O(1)
+        # Approach: basically for numbers between (1,3) 1 operation is needed to convert to 0
+        #                                         (4, 15) 2 operations needed
+        #                                         (16, 63) 3 operations needed
+        #                                         (4*L, 4*L-1) so we can move this range and check how many elements fall in this range
+        #                                         range will be valid until (L <= r)
+
         
