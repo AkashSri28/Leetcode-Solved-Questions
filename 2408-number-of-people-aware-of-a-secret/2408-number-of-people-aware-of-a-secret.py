@@ -17,6 +17,10 @@ class Solution:
 
         return ans
 
+        # TC: O(n*(delay-forget))
+        # SC: O(n)
+        # Approach: For each day, find number of new people on that day. New people will be contributed by people between forget+1 and delay. At the nth day find all people from n-forget+1 to n
+
 
 
         
