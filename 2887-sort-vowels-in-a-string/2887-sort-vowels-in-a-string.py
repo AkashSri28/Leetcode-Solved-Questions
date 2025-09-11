@@ -1,13 +1,12 @@
 class Solution:
     def sortVowels(self, s: str) -> str:
-        s1 = "AEIOUaeiou"
+        s1 = set("AEIOUaeiou")
         mem = []
         chars = list(s)
         for ch in chars:
             if ch in s1:
                 mem.append(ch)
 
-        print(mem)
         mem.sort()
 
         j = 0
@@ -17,6 +16,10 @@ class Solution:
                 j += 1
 
         return ''.join(chars)
+
+        # TC: O(2n+nlogn)
+        # SC: O(n)
+        # Approach: in one iteration find all vowels, in second iteration, replace vowels with lowest ascii value vowel (stored in mem)
 
 
         
