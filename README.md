@@ -25,6 +25,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0945-snakes-and-ladders) |
+| [1006-vowel-spellchecker](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1006-vowel-spellchecker) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1293-three-consecutive-odds) |
@@ -197,6 +198,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -234,6 +236,7 @@
 | [0179-largest-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0680-valid-palindrome-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
+| [1006-vowel-spellchecker](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1160-letter-tile-possibilities) |
