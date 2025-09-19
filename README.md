@@ -99,6 +99,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3790-fruits-into-baskets-ii) |
+| [3797-design-spreadsheet](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3797-design-spreadsheet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3797-design-spreadsheet) |
 ## Data Stream
 |  |
 | ------- |
@@ -232,6 +234,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -275,6 +278,7 @@
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -406,6 +410,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3797-design-spreadsheet) |
 ## Number Theory
 |  |
 | ------- |
