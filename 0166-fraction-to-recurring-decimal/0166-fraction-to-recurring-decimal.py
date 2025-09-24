@@ -28,4 +28,12 @@ class Solution:
             return s1
         s2 = find_div(rem, d)
         return s1+"."+s2
+
+        # TC: O(length of decimal)
+        # SC: O(len of distinct remainders)
+        # Approach: this has multiple edge cases
+        # 1 check if num is 0, return 0
+        # 2 find sign by taking xor of signs
+        # 3 find int part taking num// den
+        # 4 for decimal part use dict to store values and index, update once a repeated value is seen
         
