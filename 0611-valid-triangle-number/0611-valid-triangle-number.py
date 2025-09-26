@@ -13,4 +13,8 @@ class Solution:
                     i += 1
         return cnt
 
+        # TC: O(n^2)
+        # SC: O(1)
+        # Approach: 3 points can form a triangle if and only if a+b > c. So we sort nums and check for all pairs a, b where a+b > c
+
         
