@@ -6,6 +6,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
@@ -308,6 +309,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
@@ -391,6 +393,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0253-meeting-rooms-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0253-meeting-rooms-ii) |
 | [0321-create-maximum-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0321-create-maximum-number) |
@@ -511,6 +514,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0055-jump-game) |
@@ -589,6 +593,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0321-create-maximum-number) |
 ## Linked List
