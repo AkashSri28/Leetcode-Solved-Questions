@@ -16,3 +16,7 @@ class Solution:
                     rmax = height[r]
                 r -= 1
         return ans
+
+        # TC: O(n)
+        # SC: O(1)
+        # Approach: move from both ends and for each point check if we are coming from a smaller side, then find water level with respect to that side. If there is no water then update max to current point
