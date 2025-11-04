@@ -17,5 +17,9 @@ class Solution:
             ans.append(nums[q[0]])
         return ans
 
+        # TC: O(n)
+        # SC: O(k)
+        # Approach: iterate array from 0 to n index. Now everytime we see a number, we remove all smaller numbers from queue as they wont be needed once we encounter a larger number. Also keep dropping elements from front whose index is less than window size i - k
+
 
         
