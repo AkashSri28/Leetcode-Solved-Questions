@@ -1,7 +1,7 @@
 class Solution:
     def largestRectangleArea(self, height: List[int]) -> int:
         n = len(height)
-        left, right = [-1]*n, [-1]*n
+        left, right = [-1]*n, [n]*n
         stack = []
 
         for i in range(n):
@@ -20,9 +20,12 @@ class Solution:
 
         ans = 0
         for i in range(n):
-            w = right[i] - left[i] - 1
-            ans = max(ans, w*height[i])
+            ans = max(ans, height[i] * (right[i] - left[i] - 1))
 
         return ans
+
+        # TC: O(3n)
+        # SC: O(3n)
+        # Approach: Find left and right side boundary, then find area for each position
 
         
