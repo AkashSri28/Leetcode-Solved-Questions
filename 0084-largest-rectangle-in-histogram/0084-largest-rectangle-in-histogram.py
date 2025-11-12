@@ -1,26 +1,28 @@
 class Solution:
-    def largestRectangleArea(self, heights: List[int]) -> int:
+    def largestRectangleArea(self, height: List[int]) -> int:
+        n = len(height)
+        left, right = [-1]*n, [-1]*n
         stack = []
-        area = 0
-        stack.append((0, -1))
+
+        for i in range(n):
+            while stack and height[stack[-1]] >= height[i]:
+                stack.pop()
+            left[i] = stack[-1] if stack else -1
+            stack.append(i)
+
+        stack.clear()
+
+        for i in range(n-1, -1, -1):
+            while stack and height[stack[-1]] >= height[i]:
+                stack.pop()
+            right[i] = stack[-1] if stack else n
+            stack.append(i)
+
+        ans = 0
+        for i in range(n):
+            w = right[i] - left[i] - 1
+            ans = max(ans, w*height[i])
+
+        return ans
+
         
-        for index, height in enumerate(heights):
-            start = index
-            while stack[-1][0] > height:
-                curr_height, i2 = stack.pop()
-                curr_area = curr_height*(index-i2)
-                area = max(area, curr_area)
-                start = i2
-                
-            stack.append((height, start))
-            
-        while stack:
-            curr_height, i2 = stack.pop()
-            curr_area = curr_height*(len(heights)-i2)
-            area = max(area, curr_area)
-            
-        return area
-        
-# TC: O(n)
-#     SC: O(n)    #stack
-#         Approach: Add element to stack if its height is greater than previous. If height is less, pop elements from stack. For each element popped, calculate its area. Its area will be height * distance between it and curr element.
