@@ -177,6 +177,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -318,6 +319,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0321-create-maximum-number) |
+| [0341-flatten-nested-list-iterator](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -360,6 +362,7 @@
 ## Tree
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -370,6 +373,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -640,6 +644,7 @@
 | [0225-implement-stack-using-queues](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Geometry
 |  |
@@ -654,4 +659,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
