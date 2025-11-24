@@ -212,6 +212,7 @@
 | [0036-valid-sudoku](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0387-first-unique-character-in-a-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
@@ -256,6 +257,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 | [1006-vowel-spellchecker](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -294,6 +296,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1160-letter-tile-possibilities) |
@@ -645,6 +648,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
+| [0387-first-unique-character-in-a-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Geometry
 |  |
