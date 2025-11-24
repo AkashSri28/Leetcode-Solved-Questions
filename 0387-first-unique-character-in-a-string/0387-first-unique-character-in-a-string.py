@@ -14,6 +14,10 @@ class Solution:
 
         return q[0] if q else -1
 
+        # TC: O(n)
+        # SC: O(1)
+        # Approach: store elements in array along with freq, now pop elements with freq > 1. Top element will be answer
+
 
 
                 
