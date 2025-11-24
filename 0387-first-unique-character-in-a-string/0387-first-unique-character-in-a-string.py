@@ -4,9 +4,10 @@ class Solution:
         q = deque()
         for i, ch in enumerate(s):
             idx = ord(ch) - ord('a')
-            if seen[idx] == 0:
-                q.append(i)
             seen[idx] += 1
+            if seen[idx] == 1:
+                q.append(i)
+            
         
         while q and seen[ord(s[q[0]]) - ord('a')] > 1:
             q.popleft()
