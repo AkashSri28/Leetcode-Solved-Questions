@@ -9,19 +9,18 @@ class Solution:
         if not root:
             return []
         res = []
-        stack = []
-        stack.append([root, 0])
+        stack = [(root, 0)]
 
         while stack:
             node, p = stack.pop()
             if p == 0:
-                stack.append([node, 1])
+                stack.append((node, 1))
                 if node.left:
-                    stack.append([node.left, 0])
+                    stack.append((node.left, 0))
             elif p == 1:
                 res.append(node.val)
                 if node.right:
-                    stack.append([node.right, 0])
+                    stack.append((node.right, 0))
             
         return res
 
