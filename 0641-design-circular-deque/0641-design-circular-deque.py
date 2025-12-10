@@ -1,69 +1,52 @@
 class MyCircularDeque:
 
     def __init__(self, k: int):
-        self.arr = [0]*k
-        self.start = 0
-        self.end = 0
-        self.k = k
-        self.count = 0
+        self.arr = [0]*(k+1)
+        self.k = k+1
+        self.f = 0
+        self.r = 0
         
-
     def insertFront(self, value: int) -> bool:
         if self.isFull():
             return False
-        self.start = (self.start-1)%self.k
-        self.arr[self.start] = value
-        self.count += 1   
+        self.f = (self.f - 1 + self.k) % self.k
+        self.arr[self.f] = value
         return True
         
-
     def insertLast(self, value: int) -> bool:
         if self.isFull():
             return False
-        self.arr[self.end] = value
-        self.end = (self.end+1)%self.k
-        self.count += 1
+        self.arr[self.r] = value
+        self.r = (self.r+1)%self.k
         return True
-        
 
     def deleteFront(self) -> bool:
         if self.isEmpty():
             return False
-        self.start = (self.start+1)%self.k
-        self.count -= 1
+        self.f = (self.f+1)%self.k
         return True
-        
 
     def deleteLast(self) -> bool:
         if self.isEmpty():
             return False
-        self.end = (self.end-1)%self.k
-        self.count -= 1
+        self.r = (self.r - 1 + self.k) % self.k
         return True
-        
 
     def getFront(self) -> int:
         if self.isEmpty():
             return -1
-        return self.arr[self.start]
-        
+        return self.arr[self.f]
 
     def getRear(self) -> int:
         if self.isEmpty():
             return -1
-        return self.arr[(self.end-1)%self.k]
-        
+        return self.arr[(self.r - 1 + self.k) % self.k]
 
     def isEmpty(self) -> bool:
-        if self.count == 0:
-            return True
-        return False
-        
+        return self.f == self.r
 
     def isFull(self) -> bool:
-        if self.count == self.k:
-            return True
-        return False
+        return (self.r+1)%self.k == self.f
         
 
 
