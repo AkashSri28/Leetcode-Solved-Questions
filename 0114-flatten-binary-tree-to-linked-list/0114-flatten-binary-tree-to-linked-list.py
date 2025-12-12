@@ -25,5 +25,8 @@ class Solution:
                 prev.left = None
             prev = node
 
+        # TC: O(n)
+        # SC: O(h)
+        # Approach: insert left child above right one in stack
 
         
