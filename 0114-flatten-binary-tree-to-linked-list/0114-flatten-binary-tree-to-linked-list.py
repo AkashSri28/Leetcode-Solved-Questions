@@ -11,8 +11,8 @@ class Solution:
         """
         if not root:
             return
-        stack = []
-        stack.append(root)
+        stack = [root]
+
         prev = None
         while stack:
             node = stack.pop()
