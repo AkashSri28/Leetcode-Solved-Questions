@@ -262,6 +262,7 @@
 | [0179-largest-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 | [1006-vowel-spellchecker](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -348,6 +349,7 @@
 | [0321-create-maximum-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0611-valid-triangle-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0611-valid-triangle-number) |
+| [0649-dota2-senate](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1448-maximum-69-number) |
@@ -666,6 +668,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0649-dota2-senate) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Geometry
 |  |
