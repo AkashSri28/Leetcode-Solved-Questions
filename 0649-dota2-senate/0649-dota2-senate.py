@@ -21,5 +21,12 @@ class Solution:
 
         # TC: O(2n)
         # SC: O(2n)
+#         Approach: You store the indices of R and D senators in two queues.
+
+# In each round, the senator with the smaller index acts first and bans the other.
+
+# The winner gets re-added with index + n to simulate them coming back in the next cycle.
+
+# Loop ends when one party has no senators left.
 
         
