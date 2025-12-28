@@ -3,8 +3,8 @@ class Solution:
         q_r = deque()
         q_d = deque()
         n = len(senate)
-        for i in range(n):
-            if senate[i] == 'R':
+        for i, ch in enumerate(senate):
+            if ch == 'R':
                 q_r.append(i)
             else:
                 q_d.append(i)
@@ -17,8 +17,9 @@ class Solution:
             else:
                 q_d.append(d+n)
 
-        if q_r:
-            return "Radiant"
-        return "Dire"    
+        return "Radiant" if q_r else "Dire"
+
+        # TC: O(2n)
+        # SC: O(2n)
 
         
