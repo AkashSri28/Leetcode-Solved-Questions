@@ -325,6 +325,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
@@ -420,6 +421,7 @@
 | [0027-remove-element](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0143-reorder-list) |
 | [0253-meeting-rooms-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0253-meeting-rooms-ii) |
 | [0321-create-maximum-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0321-create-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0611-valid-triangle-number) |
@@ -585,6 +587,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0044-wildcard-matching) |
+| [0143-reorder-list](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0342-power-of-four) |
@@ -627,6 +630,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0143-reorder-list) |
 | [0622-design-circular-queue](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0641-design-circular-deque) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
