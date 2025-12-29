@@ -11,17 +11,17 @@ class Solution:
         if not head or not head.next:
             return
         p1, p2 = head, head.next
-        while p1 and p2 and p2.next:
+        while p2 and p2.next:
             p1 = p1.next
             p2 = p2.next.next
 
         stack = []
-        p2 = p1
-        p1 = p1.next
-        p2.next = None
-        while p1:
-            stack.append(p1)
-            p1 = p1.next
+        p2 = p1.next
+        p1.next = None
+
+        while p2:
+            stack.append(p2)
+            p2 = p2.next
 
         p1 = head
         while stack:
