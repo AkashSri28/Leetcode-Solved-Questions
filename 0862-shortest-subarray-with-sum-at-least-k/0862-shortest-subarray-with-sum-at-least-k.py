@@ -1,22 +1,21 @@
 class Solution:
     def shortestSubarray(self, nums: List[int], k: int) -> int:
-        n, ans, curr_sum = len(nums), len(nums)+1, 0
-        q = deque() 
-        
-        for i in range(n):
-            curr_sum += nums[i]
-            
-            if curr_sum >= k:
-                ans = min(ans, i+1)
-                
-            while q and curr_sum - q[0][0] >= k:
-                s, index = q.popleft()
-                ans = min(ans, i-index)
-                
-            while q and q[-1][0] > curr_sum:
+        n = len(nums)
+        prefix = [0]*(n+1)
+        q = deque()
+        ans = float('inf')
+
+        for i in range(1, n+1):
+            prefix[i] = prefix[i-1] + nums[i-1]
+
+        for i in range(n+1):
+            while q and prefix[i] - prefix[q[0]] >= k:
+                ans = min(ans, i-q.popleft())
+
+            while q and prefix[i] <= prefix[q[-1]]:
                 q.pop()
-                
-            q.append((curr_sum ,i))
-            
-        return -1 if ans == n+1 else ans
+
+            q.append(i)
+
+        return ans if ans != float('inf') else -1
         
