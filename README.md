@@ -28,6 +28,7 @@
 | [0622-design-circular-queue](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0641-design-circular-deque) |
 | [0679-24-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0679-24-game) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0945-snakes-and-ladders) |
@@ -111,6 +112,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0253-meeting-rooms-ii) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0253-meeting-rooms-ii) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2529-range-product-queries-of-powers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2529-range-product-queries-of-powers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3618-find-the-original-typed-string-ii) |
@@ -459,6 +462,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0867-new-21-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -474,6 +478,7 @@
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0611-valid-triangle-number) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -673,6 +678,7 @@
 | [0622-design-circular-queue](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0649-dota2-senate) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Geometry
 |  |
@@ -687,6 +693,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Iterator
 |  |
 | ------- |
