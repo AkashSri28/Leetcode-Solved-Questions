@@ -94,3 +94,7 @@ class LFUCache:
 # obj = LFUCache(capacity)
 # param_1 = obj.get(key)
 # obj.put(key,value)
+
+# TC: O(1) both get() and put()
+# SC: O(n)
+# Approach: use LRu logic and create doubly linked list for each frequency, maintain minFreq variable
