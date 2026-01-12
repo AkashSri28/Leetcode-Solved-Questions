@@ -179,6 +179,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
@@ -218,6 +219,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
@@ -636,6 +638,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0622-design-circular-queue](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0641-design-circular-deque) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -698,4 +701,8 @@
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
