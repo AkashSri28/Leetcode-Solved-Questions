@@ -13,12 +13,17 @@ class Solution:
                 if d < abs_diff:
                     abs_diff = d
                     ans = s
+                if s == target:
+                    return ans
                 if s > target:
                     k -= 1
                 else:
                     j += 1
 
         return ans
+
+        TC: O(n^2 + n)
+        SC: O(1)
 
 
         
