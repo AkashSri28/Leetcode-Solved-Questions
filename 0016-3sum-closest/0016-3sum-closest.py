@@ -11,8 +11,10 @@ class Solution:
             k = n-1
             while j < k:
                 s = nums[i] + nums[j] + nums[k]
+
                 if s == target:
                     return target
+
                 d = abs(target - s)
                 if d < abs_diff:
                     abs_diff = d
@@ -25,8 +27,9 @@ class Solution:
 
         return ans
 
-        TC: O(n^2 + n)
-        SC: O(1)
+        # TC: O(n^2 + nlogn)
+        # SC: O(1)
+        # Approach: use 2 pointer approach, if sum > target, then move k, if sum < target then move j. If sum == target, then target is our ans
 
 
         
