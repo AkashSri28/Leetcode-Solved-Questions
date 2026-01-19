@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0042-trapping-rain-water) |
@@ -425,6 +426,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
@@ -523,6 +525,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
 | [0253-meeting-rooms-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0253-meeting-rooms-ii) |
