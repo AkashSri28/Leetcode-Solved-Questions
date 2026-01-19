@@ -9,12 +9,13 @@ class Solution:
             k = n-1
             while j < k:
                 s = nums[i] + nums[j] + nums[k]
+                if s == target:
+                    return target
                 d = abs(target - s)
                 if d < abs_diff:
                     abs_diff = d
                     ans = s
-                if s == target:
-                    return ans
+                
                 if s > target:
                     k -= 1
                 else:
