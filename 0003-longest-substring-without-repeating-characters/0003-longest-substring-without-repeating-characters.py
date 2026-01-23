@@ -4,8 +4,7 @@ class Solution:
         freq = dict()
         j = 0
         ans = 0
-        for i in range(n):
-            ch = s[i]
+        for i, ch in enumerate(s):
             freq[ch] = freq.get(ch, 0) + 1
 
             while freq[ch] > 1:
