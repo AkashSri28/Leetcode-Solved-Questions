@@ -12,8 +12,7 @@ class Solution:
                 freq[ch1] -= 1
                 j += 1
 
-            l = i-j+1
-            ans = max(ans, l)
+            ans = max(ans, i-j+1)
 
         return ans
 
