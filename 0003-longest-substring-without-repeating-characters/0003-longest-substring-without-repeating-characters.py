@@ -11,4 +11,8 @@ class Solution:
 
         return ans
 
+        # TC: O(n)
+        # SC: O(characters)
+        # Approach: store last index of character seen, if its greater than j, then move j to ch+1 to avoid duplicate
+
         
