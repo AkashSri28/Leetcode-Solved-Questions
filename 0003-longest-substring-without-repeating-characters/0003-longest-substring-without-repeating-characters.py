@@ -6,9 +6,7 @@ class Solution:
         ans = 0
         for i in range(n):
             ch = s[i]
-            if ch not in freq:
-                freq[ch] = 0
-            freq[ch] += 1
+            freq[ch] = freq.get(ch, 0) + 1
 
             while freq[ch] > 1:
                 ch1 = s[j]
