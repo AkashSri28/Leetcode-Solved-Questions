@@ -8,8 +8,7 @@ class Solution:
             freq[ch] = freq.get(ch, 0) + 1
 
             while freq[ch] > 1:
-                ch1 = s[j]
-                freq[ch1] -= 1
+                freq[s[j]] -= 1
                 j += 1
 
             ans = max(ans, i-j+1)
