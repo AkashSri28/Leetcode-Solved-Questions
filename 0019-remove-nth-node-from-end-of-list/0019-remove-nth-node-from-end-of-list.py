@@ -19,4 +19,9 @@ class Solution:
         q.next = q.next.next
         return head
 
+        # TC: O(n)
+        # SC: O(1)
+        # Approach: use 2 pointers with distance n, to find n-1 node. Then point n-1th node to n.next.next. This will skip nth node. Explicitly deleting node is not required
+        
+
         
