@@ -7,4 +7,8 @@ class Solution:
                 nums[j] = nums[i]
 
         return j+1
+
+        # TC: O(n)
+        # SC: O(1)
+        # Approach: keep a pointer j to track all unique elements, use i to iterate over elements, everytime a new element is seen, move j and place new element there
         
