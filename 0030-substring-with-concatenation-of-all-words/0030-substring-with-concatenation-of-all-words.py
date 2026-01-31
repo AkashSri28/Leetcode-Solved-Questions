@@ -26,6 +26,11 @@ class Solution:
                     if count == k:
                         res.append(left)
 
+                        left_word = s[left:left + word_len]
+                        seen[left_word] -= 1
+                        left += word_len
+                        count -= 1
+
                 else:
                     left = right + word_len
                     seen.clear()
