@@ -39,4 +39,8 @@ class Solution:
                 right += word_len
 
         return res
+
+        # TC: O(n)
+        # SC: O(k)
+        # Approach: find the window where all words in words exist. If invalid word is seen, move starting point of window
         
