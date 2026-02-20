@@ -227,6 +227,7 @@
 | [0073-set-matrix-zeroes](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0383-ransom-note](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0460-lfu-cache](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0460-lfu-cache) |
 | [0594-longest-harmonious-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
@@ -275,6 +276,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
+| [0383-ransom-note](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
@@ -315,6 +317,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0900-reordered-power-of-2) |
