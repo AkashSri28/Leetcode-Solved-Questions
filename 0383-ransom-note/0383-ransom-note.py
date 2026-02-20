@@ -36,4 +36,5 @@ class Solution(object):
 
         # TC: O(m+n)
         # SC: O(52)
+        # Approach: find if any char in ransomNote is extra that is not in magazine
         
