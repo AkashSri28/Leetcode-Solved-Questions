@@ -11,6 +11,7 @@
 | [0036-valid-sudoku](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
@@ -224,6 +225,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -275,6 +277,7 @@
 | [0032-longest-valid-parentheses](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0205-isomorphic-strings) |
@@ -545,6 +548,7 @@
 | ------- |
 | [0015-3sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
 | [0253-meeting-rooms-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0253-meeting-rooms-ii) |
