@@ -15,14 +15,11 @@ class Solution(object):
                 new_n += d*d
             return new_n
 
-        while True:
+        while n != 1 and n not in seen:
             seen.add(n)
-            new_n = find_n(n)
-            if new_n in seen:
-                if new_n == 1:
-                    return True
-                return False
+            n = find_n(n)
 
-            n = new_n
+        return n == 1
 
-        
+        # TC: O(n*d)
+        # SC: O(n)
