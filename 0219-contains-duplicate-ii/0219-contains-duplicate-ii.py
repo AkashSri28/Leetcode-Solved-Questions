@@ -13,4 +13,8 @@ class Solution(object):
 
         return False
 
+        # TC: O(n)
+        # SC: O(n)
+        # Approach: check from left and store index if new element is seen, or condition didnt satisfy.
+
         
