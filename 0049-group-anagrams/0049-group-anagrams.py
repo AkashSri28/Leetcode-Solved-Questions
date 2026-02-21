@@ -9,11 +9,15 @@ class Solution(object):
             sorted_word = ''.join(sorted(word))
             mem[sorted_word].append(word)
 
-        ans = []
+        # ans = []
 
-        for v in mem.values():
-            ans.append(v)
+        # for v in mem.values():
+        #     ans.append(v)
 
-        return ans
+        # return ans
+        return list(mem.values())
+
+        # TC: O(n*mlogm)
+        # SC: O(n*n)
 
         
