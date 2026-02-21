@@ -228,6 +228,7 @@
 | [0146-lru-cache](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0460-lfu-cache](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0460-lfu-cache) |
@@ -277,6 +278,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
