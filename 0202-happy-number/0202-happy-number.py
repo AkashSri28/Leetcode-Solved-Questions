@@ -23,3 +23,4 @@ class Solution(object):
 
         # TC: O(n*d)
         # SC: O(n)
+        # Approach: check for cycle, if we reach 1 or cycle, break from loop. If 1 return True, else False
