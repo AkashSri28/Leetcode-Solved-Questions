@@ -141,6 +141,7 @@
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0342-power-of-four) |
@@ -229,6 +230,7 @@
 | [0073-set-matrix-zeroes](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0383-ransom-note) |
@@ -450,6 +452,7 @@
 | [0042-trapping-rain-water](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0202-happy-number) |
 | [0253-meeting-rooms-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0253-meeting-rooms-ii) |
 | [0321-create-maximum-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0321-create-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0611-valid-triangle-number) |
