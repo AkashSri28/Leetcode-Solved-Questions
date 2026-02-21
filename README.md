@@ -21,6 +21,7 @@
 | [0134-gas-station](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
+| [0219-contains-duplicate-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0253-meeting-rooms-ii) |
 | [0280-wiggle-sort](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0280-wiggle-sort) |
@@ -232,6 +233,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -490,6 +492,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0219-contains-duplicate-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
