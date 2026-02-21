@@ -5,11 +5,11 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        mem1, mem2 = {}, {}
-        word_list = s.split(' ')
-
+        word_list = s.split()
         if len(pattern) != len(word_list):
             return False
+
+        mem1, mem2 = {}, {}
 
         for ch, word in zip(pattern, word_list):
             if ch in mem1:
@@ -24,4 +24,7 @@ class Solution(object):
                 mem2[word] = ch
 
         return True
+
+        # TC: O(n+n)
+        # SC: O(n+n+n)
         
