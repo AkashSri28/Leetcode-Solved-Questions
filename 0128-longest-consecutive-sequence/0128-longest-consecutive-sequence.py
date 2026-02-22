@@ -23,6 +23,7 @@ class Solution(object):
 
         # TC: O(nlogn)
         # SC: O(1)
+        # Approach: sort and check, skip duplicates
 
         # Better solution
         nums_set = set(nums)
@@ -36,6 +37,10 @@ class Solution(object):
                 ans = max(ans, cnt)
 
         return ans
+
+        # TC: O(n)
+        # SC: O(n)
+        # Approach: store all nums in a set. Now for each element in a set, check if its starting point num-1 will not be in set. Count until num+1 is in set.
 
 
         
