@@ -4,20 +4,36 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        n = len(nums)
-        if n == 0:
-            return 0
+        # n = len(nums)
+        # if n == 0:
+        #     return 0
 
-        nums.sort()
-        ans = cnt = 1
-        for i in range(1, n):
-            if nums[i] == nums[i-1]+1:
-                cnt += 1
-                ans = max(ans, cnt)
-            elif nums[i] == nums[i-1]:
-                continue
-            else:
+        # nums.sort()
+        # ans = cnt = 1
+        # for i in range(1, n):
+        #     if nums[i] == nums[i-1]+1:
+        #         cnt += 1
+        #         ans = max(ans, cnt)
+        #     elif nums[i] == nums[i-1]:
+        #         continue
+        #     else:
+        #         cnt = 1
+
+        # return ans
+
+        # TC: O(nlogn)
+        # SC: O(1)
+
+        # Better solution
+        nums_set = set(nums)
+        ans = 0
+        for num in nums_set:
+            if num - 1 not in nums_set:
                 cnt = 1
+                while num+1 in nums_set:
+                    cnt += 1
+                    num += 1
+                ans = max(ans, cnt)
 
         return ans
 
