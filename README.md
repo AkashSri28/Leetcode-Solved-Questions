@@ -18,6 +18,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
@@ -229,6 +230,7 @@
 | [0036-valid-sudoku](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0202-happy-number) |
@@ -742,4 +744,8 @@
 | ------- |
 | [0146-lru-cache](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0460-lfu-cache) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
