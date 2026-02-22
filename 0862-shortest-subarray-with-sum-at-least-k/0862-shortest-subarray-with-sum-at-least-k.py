@@ -1,21 +1,30 @@
-class Solution:
-    def shortestSubarray(self, nums: List[int], k: int) -> int:
-        n = len(nums)
-        prefix = [0]*(n+1)
+class Solution(object):
+    def shortestSubarray(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: int
+        """
         q = deque()
+        q.append((0, 0))
         ans = float('inf')
+        curr_sum = 0
 
-        for i in range(1, n+1):
-            prefix[i] = prefix[i-1] + nums[i-1]
+        for idx, n in enumerate(nums):
+            curr_sum += n
 
-        for i in range(n+1):
-            while q and prefix[i] - prefix[q[0]] >= k:
-                ans = min(ans, i-q.popleft())
+            if curr_sum >= k:
+                ans = min(ans, idx+1)
 
-            while q and prefix[i] <= prefix[q[-1]]:
+            while q and q[-1][0] > curr_sum:
+                # print(curr_sum)
                 q.pop()
 
-            q.append(i)
+            q.append((curr_sum, idx+1))
+
+            while q and curr_sum - q[0][0] >= k:
+                num, left_idx = q.popleft() 
+                ans = min(ans, idx+1 - left_idx)
 
         return ans if ans != float('inf') else -1
         
