@@ -40,6 +40,11 @@ class Solution(object):
 
         return ans
 
+        # TC: O(N*L)
+        # SC: O(M*L)
+        # Approach: For all possible start points, check number of consecutive words which satisfy condition. If word count get high then remove from left. If invalid word occurs, reset map and shift left
+
+
                 
 
 
