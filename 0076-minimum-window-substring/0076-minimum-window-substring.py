@@ -37,6 +37,10 @@ class Solution(object):
         
         return s[ans_l: ans_r+1]
 
+        # TC: O(m+n)
+        # SC: O(distinct character)
+        # Approach: increase count when freq becomes equal. While distinct char count is equal, move left
+
        
 
 
