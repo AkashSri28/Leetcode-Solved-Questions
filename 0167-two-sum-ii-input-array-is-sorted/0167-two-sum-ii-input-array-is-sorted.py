@@ -17,5 +17,9 @@ class Solution(object):
             else:
                 return [i+1, j+1]
 
+        # TC: O(n)
+        # SC: O(1)
+        # Approach: keep pointers on 2 ends, when you want to decrease sum, move right pointer, when you want to increase sum move left pointer
+
 
         
