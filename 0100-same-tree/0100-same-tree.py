@@ -12,11 +12,13 @@ class Solution(object):
         :rtype: bool
         """
         def check_node(node1, node2):
+            if not node1 and not node2:
+                return True
+                
             if node1 and node2:
                 if node1.val == node2.val:
                     return check_node(node1.left, node2.left) and check_node(node1.right, node2.right)
-            if not node1 and not node2:
-                return True
+            
             return False
 
         return check_node(p, q)
