@@ -22,4 +22,8 @@ class Solution(object):
 
         swap_children(root)
         return root
+
+        # TC: O(n)
+        # SC: O(h)
+        # Approach: swap children at each node if node is not None
         
