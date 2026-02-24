@@ -14,9 +14,7 @@ class Solution(object):
             if not node:
                 return 
 
-            left = node.left
-            node.left = node.right
-            node.right = left
+            node.left, node.right = node.right, node.left
             swap_children(node.left)
             swap_children(node.right)
 
