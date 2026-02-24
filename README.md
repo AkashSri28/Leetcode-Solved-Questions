@@ -288,6 +288,7 @@
 | [0044-wildcard-matching](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0205-isomorphic-strings) |
@@ -459,6 +460,7 @@
 | [0027-remove-element](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0202-happy-number) |
 | [0253-meeting-rooms-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0253-meeting-rooms-ii) |
