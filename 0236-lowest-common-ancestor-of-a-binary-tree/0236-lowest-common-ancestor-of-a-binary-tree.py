@@ -32,6 +32,10 @@ class Solution(object):
 
         return check_node(root, p, q) 
 
+        # TC: O(n)
+        # SC: O(h)
+        # Approach: LCA will be one which can target nodes in both of its child. Check for every node and return node if it matches, else return None
+
             
             
 
