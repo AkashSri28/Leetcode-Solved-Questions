@@ -14,7 +14,7 @@ class Solution(object):
         def check_node(node1, node2):
             if not node1 and not node2:
                 return True
-                
+
             if node1 and node2:
                 if node1.val == node2.val:
                     return check_node(node1.left, node2.left) and check_node(node1.right, node2.right)
@@ -22,4 +22,8 @@ class Solution(object):
             return False
 
         return check_node(p, q)
+
+        # TC: O(n)
+        # SC: O(h)
+        # Approach: check for 2 nodes, if both are null then return True. If both are not null then check value. If values are equal, check children. If anything fails return False
         
