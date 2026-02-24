@@ -7,7 +7,7 @@ class Solution(object):
         n = len(s)
         i, j = 0, n-1
 
-        while i <= j:
+        while i < j:
             while i < n and not s[i].isalnum():
                 i += 1
 
@@ -24,5 +24,8 @@ class Solution(object):
             j -= 1
 
         return True
-            
+
+        # TC: O(n)
+        # SC: O(1)
+        # Approach: check from both ends skipping non alpha numeric chars, if conflict found return false. If end reached return true    
         
