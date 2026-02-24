@@ -16,4 +16,7 @@ class Solution(object):
             return max(find_depth(node.left), find_depth(node.right)) + 1
 
         return find_depth(root)
-        
+
+        # TC: O(n)
+        # SC: O(n) # recursion depth
+        # Approach: null node will have 0 depth. Other nodes will have 1 + max of depth of its children
