@@ -11,7 +11,7 @@ class Solution(object):
             while i < n and not s[i].isalnum():
                 i += 1
 
-            while j > 0 and not s[j].isalnum():
+            while j >= 0 and not s[j].isalnum():
                 j -= 1
 
             if i == n or j == -1:
