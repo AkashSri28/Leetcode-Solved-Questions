@@ -296,6 +296,7 @@
 | [0316-remove-duplicate-letters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0649-dota2-senate](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 | [1006-vowel-spellchecker](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1006-vowel-spellchecker) |
@@ -465,6 +466,7 @@
 | [0202-happy-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0202-happy-number) |
 | [0253-meeting-rooms-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0253-meeting-rooms-ii) |
 | [0321-create-maximum-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0321-create-maximum-number) |
+| [0392-is-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -600,6 +602,7 @@
 | [0055-jump-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0867-new-21-game) |
