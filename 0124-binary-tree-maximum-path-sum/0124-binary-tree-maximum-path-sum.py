@@ -22,4 +22,8 @@ class Solution(object):
 
         node_sum(root)
         return ans[0]
+
+        # TC: O(n)
+        # SC: O(h)
+        # Approach: for every node, find max sum including that node. Add left and right child sum to find sum. If left or right child sum is negative, dont include, 0. Return current node val + max(left, right) to parent
         
