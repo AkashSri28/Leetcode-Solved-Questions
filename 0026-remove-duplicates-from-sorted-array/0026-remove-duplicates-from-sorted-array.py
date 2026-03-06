@@ -14,4 +14,7 @@ class Solution(object):
             j += 1
 
         return i+1
-        
+
+        # TC: O(n)
+        # SC: O(1)
+        # Approach: compare j and i pointer elements, whenever there is a difference, move i and set new element
