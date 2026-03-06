@@ -1,14 +1,17 @@
-class Solution:
-    def removeDuplicates(self, nums: List[int]) -> int:
-        j = 0
-        for i in range(1, len(nums)):
-            if nums[i] != nums[j]:
+class Solution(object):
+    def removeDuplicates(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        i, j = 0, 1
+        while j < len(nums):
+            if nums[j] == nums[i]:
                 j += 1
-                nums[j] = nums[i]
+                continue
+            i += 1
+            nums[i], nums[j] = nums[j], nums[i]
+            j += 1
 
-        return j+1
-
-        # TC: O(n)
-        # SC: O(1)
-        # Approach: keep a pointer j to track all unique elements, use i to iterate over elements, everytime a new element is seen, move j and place new element there
+        return i+1
         
