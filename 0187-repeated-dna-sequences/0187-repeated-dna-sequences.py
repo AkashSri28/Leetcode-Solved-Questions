@@ -19,4 +19,8 @@ class Solution(object):
 
         return ans
 
+        # TC: O(10*n)
+        # SC: O(n)
+        # Approach: there can 10 starting points from 0 to 9. For each starting point, check all the strings and store. Once the count reaches 2, add to ans.
+
         
