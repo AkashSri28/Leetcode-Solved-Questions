@@ -6,16 +6,15 @@ class Solution(object):
         """
         mem = defaultdict(int)
         ans = []
-        for i in range(10):
-            j = i
-            while j+10 <= len(s):
-                sub_s = s[j:j+10]
-                mem[sub_s] += 1
+        i = 0
+        while i+10 <= len(s):
+            sub_s = s[i:i+10]
+            mem[sub_s] += 1
 
-                if mem[sub_s] == 2:
-                    ans.append(sub_s)
+            if mem[sub_s] == 2:
+                ans.append(sub_s)
 
-                j += 10
+            i += 1
 
         return ans
 
