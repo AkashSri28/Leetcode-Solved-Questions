@@ -4,21 +4,19 @@ class Solution(object):
         :type s: str
         :rtype: List[str]
         """
-        mem = defaultdict(int)
-        ans = []
+        seen = set()
+        ans = set()
         i = 0
         while i+10 <= len(s):
             sub_s = s[i:i+10]
-            mem[sub_s] += 1
+            if sub_s in seen:
+                ans.add(sub_s)
 
-            if mem[sub_s] == 2:
-                ans.append(sub_s)
-
+            seen.add(sub_s)
             i += 1
+        return list(ans)
 
-        return ans
-
-        # TC: O(10*n)
+        # TC: O(n)
         # SC: O(n)
         # Approach: there can 10 starting points from 0 to 9. For each starting point, check all the strings and store. Once the count reaches 2, add to ans.
 
