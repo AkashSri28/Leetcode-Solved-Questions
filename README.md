@@ -245,6 +245,7 @@
 | [0290-word-pattern](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0460-lfu-cache](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0460-lfu-cache) |
 | [0594-longest-harmonious-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0900-reordered-power-of-2) |
@@ -302,6 +303,7 @@
 | [0383-ransom-note](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0649-dota2-senate](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 | [1006-vowel-spellchecker](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1006-vowel-spellchecker) |
@@ -533,6 +535,7 @@
 | [0219-contains-duplicate-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0867-new-21-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0867-new-21-game) |
@@ -743,6 +746,7 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0324-wiggle-sort-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Quickselect
 |  |
 | ------- |
