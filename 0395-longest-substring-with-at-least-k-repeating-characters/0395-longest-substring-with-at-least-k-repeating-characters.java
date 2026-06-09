@@ -3,29 +3,37 @@ class Solution {
         if(end - start < k){
             return 0;
         }
+
         int[] freq = new int[26];
-        int totalChar = 0, validChar = 0;
 
         for(int i = start; i < end; i++){
-            if(freq[s.charAt(i) - 'a'] == 0){
-                totalChar++;
-            }
             freq[s.charAt(i) - 'a']++;
-            if(freq[s.charAt(i) - 'a'] == k){
-                validChar++;
+        }
+
+        // Check if all chars are valid
+        boolean allValid = true;
+        for(int i = 0; i < 26; i++){
+            if(freq[i] > 0 && freq[i] < k){
+                allValid = false;
+                break;
             }
         }
 
-        if(totalChar == validChar){
+        if(allValid){
             return end - start;
         }
 
+        int max = 0, segmentStart = start;
+
         for(int i = start; i < end; i++){
             if(freq[s.charAt(i) - 'a'] < k){
-                return Math.max(longestSubstringHelper(s, start, i, k), longestSubstringHelper(s, i+1, end, k));
+                max = Math.max(max, longestSubstringHelper(s, segmentStart, i, k));
+                segmentStart = i+1;
             }
         }
-        return 0;
+        
+        //last segment
+        return Math.max(max, longestSubstringHelper(s, segmentStart, end, k));
     }
 
     public int longestSubstring(String s, int k) {
