@@ -1,6 +1,6 @@
 class Solution {
     public int longestSubstringHelper(String s, int start, int end, int k){
-        if(start == end){
+        if(end - start < k){
             return 0;
         }
         int[] freq = new int[26];
@@ -32,3 +32,6 @@ class Solution {
         return longestSubstringHelper(s, 0, s.length(), k);
     }
 }
+
+// TC: O(logn*26)
+// SC: O(26)
