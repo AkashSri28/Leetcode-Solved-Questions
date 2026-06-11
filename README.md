@@ -31,6 +31,7 @@
 | [0280-wiggle-sort](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0280-wiggle-sort) |
 | [0321-create-maximum-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0324-wiggle-sort-ii) |
+| [0413-arithmetic-slices](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0413-arithmetic-slices) |
 | [0498-diagonal-traverse](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0611-valid-triangle-number) |
@@ -536,6 +537,7 @@
 | [0220-contains-duplicate-iii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0867-new-21-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0867-new-21-game) |
@@ -637,6 +639,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0413-arithmetic-slices) |
 | [0806-domino-and-tromino-tiling](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0867-new-21-game) |
