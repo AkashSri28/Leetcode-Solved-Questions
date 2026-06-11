@@ -13,22 +13,11 @@ class Solution {
                 count = 0;      // streak broken, reset
             }
         }
-        
-        // int left = 0;
-        // int ans = 0;
-        // while(left <= nums.length - 3){
-        //     int right = left + 1;
-        //     int diff = nums[right] - nums[left];
-        //     int count = 0;
-        //     while(right < nums.length && nums[right] - nums[right-1] == diff){
-        //         if(right-left+1 >= 3){
-        //             count++;
-        //             ans += count;
-        //         }
-        //         right++;
-        //     }
-        //     left = right-1;
-        // }
+
         return ans;
     }
 }
+
+// TC: O(n)
+// SC: O(1)
+// Approach: For each index, check if it forms valid triplet. If breaks, reset counter.
