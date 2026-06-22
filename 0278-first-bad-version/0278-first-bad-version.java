@@ -17,3 +17,7 @@ public class Solution extends VersionControl {
         return firstBad;
     }
 }
+
+// TC: O(logn)
+// SC: O(1)
+// Approach: check between 1 and n versions, whenever we get a bad version we will mark it and remove search space from its right as they all will be bad anyways.
