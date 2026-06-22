@@ -558,6 +558,7 @@
 | [0035-search-insert-position](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0278-first-bad-version) |
 | [0611-valid-triangle-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0611-valid-triangle-number) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -817,4 +818,8 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0220-contains-duplicate-iii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
