@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0045-jump-game-ii) |
@@ -554,6 +555,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0611-valid-triangle-number) |
