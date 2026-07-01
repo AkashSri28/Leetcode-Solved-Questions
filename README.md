@@ -559,6 +559,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0611-valid-triangle-number) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -822,4 +823,5 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
