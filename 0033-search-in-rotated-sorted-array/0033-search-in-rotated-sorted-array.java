@@ -28,3 +28,7 @@ class Solution {
         return ans;
     }
 }
+
+// TC: O(log n)
+// SC: O(1)
+// Approach: check mid, if not found then we need to confirm in which half target will be present. For this we need to know if left half is sorted or right half. Now if left half is sorted, we will check if target lies inside it, else will go to other half
