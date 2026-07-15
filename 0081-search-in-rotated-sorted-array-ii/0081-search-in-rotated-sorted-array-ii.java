@@ -32,3 +32,7 @@ class Solution {
         return false;
     }
 }
+
+// TC: O(logn)
+// SC: O(1)
+// Approach: if end pointers are equal we cannot determine which half to remove, so we will remove both ends
