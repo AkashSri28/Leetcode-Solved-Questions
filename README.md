@@ -25,6 +25,7 @@
 | [0134-gas-station](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -562,6 +563,7 @@
 | [0035-search-insert-position](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0278-first-bad-version) |
