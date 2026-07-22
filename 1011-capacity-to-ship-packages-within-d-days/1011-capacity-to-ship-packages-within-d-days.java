@@ -34,3 +34,9 @@ class Solution {
         return (int)ans;
     }
 }
+
+// TC: O(n*log(high - low))
+// SC: O(1)
+// Approach: Ship should carry minimum weight greater than equal to highest weight on belt. 
+// Max capacity will be sum of all weights then everything will be carried in 1 day
+// Now ans will be between these 2
