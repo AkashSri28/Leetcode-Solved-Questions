@@ -8,7 +8,7 @@ class Solution {
             }
         }
         long ans = high;
-        System.out.println(low+" "+high);
+        // System.out.println(low+" "+high);
         while(low <= high){
             long mid = low + (high - low)/2;
             long load = 0;
