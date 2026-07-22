@@ -6,7 +6,6 @@ class Solution {
         int ans = high;
         while(low <= high){
             int mid = low + (high - low)/2;
-            // System.out.println("mid "+mid);
             int time = 0;
             for(int pile : piles){
                 time += Math.ceil((double)pile/mid);
@@ -18,8 +17,6 @@ class Solution {
             else{
                 low = mid + 1;
             }
-            // System.out.println("time "+time);
-            // System.out.println("ans "+ans);
         }
         return ans;
     }
