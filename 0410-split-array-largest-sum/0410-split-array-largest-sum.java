@@ -33,3 +33,9 @@ class Solution {
         return (int)ans;
     }
 }
+
+// TC: O(n*log sum(nums) + n)
+// SC: O(1)
+// Approach: we will check for valid splits
+// if the number of valid splits is less than k-1, means this answer is valid. We can decrease mid to check if cnt still fit in k-1
+// else our splits are more we need to increase low
