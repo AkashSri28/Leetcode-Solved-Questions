@@ -36,6 +36,7 @@
 | [0280-wiggle-sort](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0280-wiggle-sort) |
 | [0321-create-maximum-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0324-wiggle-sort-ii) |
+| [0410-split-array-largest-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0413-arithmetic-slices) |
 | [0498-diagonal-traverse](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
@@ -218,6 +219,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0253-meeting-rooms-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0253-meeting-rooms-ii) |
+| [0410-split-array-largest-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0410-split-array-largest-sum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2529-range-product-queries-of-powers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2529-range-product-queries-of-powers) |
@@ -400,6 +402,7 @@
 | [0316-remove-duplicate-letters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0324-wiggle-sort-ii) |
+| [0410-split-array-largest-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
@@ -570,6 +573,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0611-valid-triangle-number) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0875-koko-eating-bananas) |
@@ -655,6 +659,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0413-arithmetic-slices) |
 | [0806-domino-and-tromino-tiling](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0826-soup-servings) |
