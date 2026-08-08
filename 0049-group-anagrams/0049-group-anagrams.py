@@ -1,33 +1,19 @@
-class Solution(object):
-    def groupAnagrams(self, strs):
-        """
-        :type strs: List[str]
-        :rtype: List[List[str]]
-        """
-        mem = defaultdict(list)
-        for word in strs:
-            sorted_word = ''.join(sorted(word))
-            mem[sorted_word].append(word)
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        mem = dict()
+        for s in strs:
+            sorted_s = ''.join(sorted(s))
+            if sorted_s not in mem:
+                mem[sorted_s] = [s]
+                continue
+            mem[sorted_s].append(s)
 
-        # ans = []
+        res = []
+        for v in mem.values():
+            res.append(v)
 
-        # for v in mem.values():
-        #     ans.append(v)
+        return res
 
-        # return ans
-        return list(mem.values())
 
-        # TC: O(n*mlogm)
-        # SC: O(n*m)
-
-        # Approach 2: TC: O(n*m), SC: O(n*m)
-        # mem = defaultdict(list)
-        # for word in strs:
-        #     count = [0] * 26
-        #     for ch in word:
-        #         count[ord(ch) - ord('a')] += 1
-        #     mem[tuple(count)].append(word)
-
-        # return list(mem.values())
 
         
