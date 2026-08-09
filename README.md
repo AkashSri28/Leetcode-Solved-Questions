@@ -47,6 +47,7 @@
 | [0622-design-circular-queue](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0641-design-circular-deque) |
 | [0679-24-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0679-24-game) |
+| [0704-binary-search](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0704-binary-search) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0875-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -585,6 +586,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0704-binary-search) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
