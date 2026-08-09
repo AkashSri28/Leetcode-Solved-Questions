@@ -1,18 +1,21 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        last = {}
-        j = 0
+        left = 0
+        mem = defaultdict(int)
         ans = 0
-        for i, ch in enumerate(s):
-            if ch in last and last[ch] >= j:
-                j = last[ch] + 1
-            last[ch] = i
-            ans = max(ans, i-j+1)
-
+        for r in range(len(s)):
+            ch = s[r]
+            mem[ch] += 1
+            while mem[ch] > 1:
+                mem[s[left]] -= 1
+                left += 1
+            ans = max(ans, r - left + 1)
+        
         return ans
 
-        # TC: O(n)
-        # SC: O(characters)
-        # Approach: store last index of character seen, if its greater than j, then move j to ch+1 to avoid duplicate
-
-        
+# TC: O(n)
+# SC: O(1)
+# Clarification: 
+# Brute Force:
+# Approach: 
+# Testing:
