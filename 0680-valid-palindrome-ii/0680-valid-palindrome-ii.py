@@ -17,6 +17,13 @@ class Solution:
             r -= 1
         return True
 
+# TC: O(n)
+# SC: O(1)
+# Clarification: can clarify if its char string
+# Brute Force: check string for palindrome by removing 1 char everytime, O(n**2)
+# Approach: we will use palindrome logic, whenever there is mismatch we will check both possibilities l+1, r and l, r-1
+# Testing: check for "", "abbab", "abbca", "abbbb"
+
 
             
         
