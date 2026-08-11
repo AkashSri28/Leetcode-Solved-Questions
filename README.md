@@ -43,6 +43,7 @@
 | [0410-split-array-largest-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0413-arithmetic-slices) |
 | [0498-diagonal-traverse](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0498-diagonal-traverse) |
+| [0560-subarray-sum-equals-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0611-valid-triangle-number) |
 | [0622-design-circular-queue](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0622-design-circular-queue) |
@@ -225,6 +226,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0253-meeting-rooms-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2529-range-product-queries-of-powers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2529-range-product-queries-of-powers) |
@@ -264,6 +266,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0460-lfu-cache) |
+| [0560-subarray-sum-equals-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
