@@ -20,6 +20,7 @@
 | [0056-merge-intervals](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0088-merge-sorted-array) |
@@ -237,6 +238,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0078-subsets) |
 | [0679-24-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -604,6 +606,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0342-power-of-four) |
