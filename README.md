@@ -53,6 +53,7 @@
 | [0641-design-circular-deque](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0641-design-circular-deque) |
 | [0679-24-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0679-24-game) |
 | [0704-binary-search](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0875-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -401,6 +402,7 @@
 | [0316-remove-duplicate-letters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0321-create-maximum-number) |
 | [0341-flatten-nested-list-iterator](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
+| [0739-daily-temperatures](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0739-daily-temperatures) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -765,6 +767,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0321-create-maximum-number) |
+| [0739-daily-temperatures](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
