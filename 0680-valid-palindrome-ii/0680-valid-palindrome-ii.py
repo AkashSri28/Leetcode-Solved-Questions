@@ -12,7 +12,7 @@ class Solution:
 
         while l <= r:
             if s[l] != s[r]:
-                return isPalindrome(s, l+1, r) | isPalindrome(s, l, r-1)
+                return isPalindrome(s, l+1, r) or isPalindrome(s, l, r-1)
             l += 1
             r -= 1
         return True
