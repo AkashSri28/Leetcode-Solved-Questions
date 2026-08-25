@@ -68,6 +68,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -604,6 +605,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
