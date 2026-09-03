@@ -171,6 +171,7 @@
 | [0231-power-of-two](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0342-power-of-four) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0679-24-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0867-new-21-game) |
@@ -601,6 +602,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0611-valid-triangle-number) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0704-binary-search) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0875-koko-eating-bananas) |
