@@ -46,6 +46,7 @@
 | [0410-split-array-largest-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0413-arithmetic-slices) |
 | [0498-diagonal-traverse](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0498-diagonal-traverse) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0611-valid-triangle-number) |
@@ -603,6 +604,7 @@
 | [0278-first-bad-version](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0410-split-array-largest-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0611-valid-triangle-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0704-binary-search) |
