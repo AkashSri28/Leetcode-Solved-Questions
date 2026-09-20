@@ -19,6 +19,7 @@
 | [0055-jump-game](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -548,6 +549,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0945-snakes-and-ladders) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -596,6 +598,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0162-find-peak-element) |
