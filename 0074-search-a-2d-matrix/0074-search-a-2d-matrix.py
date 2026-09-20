@@ -18,3 +18,6 @@ class Solution:
 
         return False
         
+# TC: O(logM*N)
+# SC: O(1)
+# Approach: Instead of check all elements one by one, we can use binary search to to find element
