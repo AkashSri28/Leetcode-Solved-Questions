@@ -1,27 +1,17 @@
 # Definition for a binary tree node.
-# class TreeNode(object):
+# class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
 #         self.val = val
 #         self.left = left
 #         self.right = right
-class Solution(object):
-    def invertTree(self, root):
-        """
-        :type root: Optional[TreeNode]
-        :rtype: Optional[TreeNode]
-        """
-        def swap_children(node):
-            if not node:
-                return 
+class Solution:
+    def invertTree(self, root: TreeNode | None) -> TreeNode | None:
+        def swapNodes(node):
+            if node:
+                node.left, node.right = node.right, node.left
+                swapNodes(node.left)
+                swapNodes(node.right)
 
-            node.left, node.right = node.right, node.left
-            swap_children(node.left)
-            swap_children(node.right)
-
-        swap_children(root)
+        swapNodes(root)
         return root
-
-        # TC: O(n)
-        # SC: O(h)
-        # Approach: swap children at each node if node is not None
         
