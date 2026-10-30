@@ -7,23 +7,23 @@
 
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        self.ans = None
-
-        self.dfs(root, p, q)
-        return self.ans
+        return self.dfs(root, p, q)
 
     def dfs(self, node, p, q):
-        if not node:
-            return False
+        if not node or node == p or node == q:
+            return node
 
         left = self.dfs(node.left, p, q)
         right = self.dfs(node.right, p, q)
 
-        if left and right and not self.ans:
-            self.ans = node
+        if left and right:
+            return node
 
-        if (node == p or node == q) and (left or right) and not self.ans:
-            self.ans = node
-
-        return (node == p) | (node == q) | left | right
+        return left or right
         
+# Clarification: if a node can be ancestor of itself
+# Brute Force: for each node we can check if it contains both p and q 
+# Approach: using dfs we can iterate all nodes and check whenever a node has both children, will true if a node is found
+# TC: O(n)
+# SC: O(h)
+# Testing: check we children are not there in tree
