@@ -1,26 +1,22 @@
 class Solution:
+    def dfs(self, i, j, c, flag, grid):
+        if 0 <= i < len(grid) and 0 <= j < len(grid[0]) and grid[i][j] == '1' and flag[i][j] == 0:
+            flag[i][j] = c
+            self.dfs(i, j+1, c, flag, grid)
+            self.dfs(i+1, j, c, flag, grid)
+            self.dfs(i, j-1, c, flag, grid)
+            self.dfs(i-1, j, c, flag, grid)
+
     def numIslands(self, grid: List[List[str]]) -> int:
         m, n = len(grid), len(grid[0])
-        visited = [[False]*n for _ in range(m)]
-        count = 0
-        
-        def bfs(grid, i, j):
-            nonlocal m, n, visited
-            if i < 0 or j <0 or i>=m or j >= n or grid[i][j] == "0" or visited[i][j]:
-                return
-            visited[i][j] = True
-            bfs(grid, i-1, j)
-            bfs(grid, i, j-1)
-            bfs(grid, i+1, j)
-            bfs(grid, i, j+1)
-            
-        
+        flag = [[0]*n for _ in range(m)]
+        cnt = 0
+
         for i in range(m):
             for j in range(n):
-                if grid[i][j] == "0" or visited[i][j]:
-                    continue
-                count += 1
-                bfs(grid, i, j)
-                
-        return count
+                if grid[i][j] == '1' and flag[i][j] == 0:
+                    cnt += 1
+                    self.dfs(i, j, cnt, flag, grid)
+
+        return cnt
         
