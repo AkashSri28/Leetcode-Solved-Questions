@@ -1,42 +1,29 @@
 # Definition for a binary tree node.
-# class TreeNode(object):
+# class TreeNode:
 #     def __init__(self, x):
 #         self.val = x
 #         self.left = None
 #         self.right = None
 
-class Solution(object):
-    def lowestCommonAncestor(self, root, p, q):
-        """
-        :type root: TreeNode
-        :type p: TreeNode
-        :type q: TreeNode
-        :rtype: TreeNode
-        """
-        def check_node(node, p, q):
-            if not node:
-                return None
+class Solution:
+    def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
+        self.ans = None
 
-            if node == p or node == q:
-                return node
+        self.dfs(root, p, q)
+        return self.ans
 
-            left = check_node(node.left, p, q)
-            right = check_node(node.right, p, q)
+    def dfs(self, node, p, q):
+        if not node:
+            return False
 
-            if left and right:
-                return node
+        left = self.dfs(node.left, p, q)
+        right = self.dfs(node.right, p, q)
 
-            if left:
-                return left
-            return right
+        if left and right and not self.ans:
+            self.ans = node
 
-        return check_node(root, p, q) 
+        if (node == p or node == q) and (left or right) and not self.ans:
+            self.ans = node
 
-        # TC: O(n)
-        # SC: O(h)
-        # Approach: LCA will be one which can target nodes in both of its child. Check for every node and return node if it matches, else return None
-
-            
-            
-
+        return (node == p) | (node == q) | left | right
         
