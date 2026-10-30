@@ -463,6 +463,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
@@ -482,6 +483,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
@@ -499,6 +501,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -514,6 +517,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
