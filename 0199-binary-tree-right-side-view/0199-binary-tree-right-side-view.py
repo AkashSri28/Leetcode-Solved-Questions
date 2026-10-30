@@ -21,3 +21,10 @@ class Solution:
         self.dfs(node.right, level+1)
         self.dfs(node.left, level+1)
         return
+
+# Clarification: 
+# Brute Force:
+# Approach: Will do dfs and check for right child first
+# TC: O(n)
+# SC: O(h)
+# Testing: will check null root, skewed trees
