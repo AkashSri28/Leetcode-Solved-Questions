@@ -54,7 +54,12 @@ class LRUCache:
         self.addNode(node)
         self.size += 1
 
-
+# Clarification: if both operations are needed in O(1)
+# Brute Force: we iterate over array and find elements, it will take O9N) for each operation
+# Approach: using doubly linked list and a map to move nodes around in O(1) time
+# TC: O(1)
+# SC: O(C)
+# Testing:check when capacity exceeds, when get() is called on empty cache
         
 
 
