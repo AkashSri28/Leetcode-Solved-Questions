@@ -34,6 +34,7 @@
 | [0162-find-peak-element](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0219-contains-duplicate-ii) |
@@ -484,6 +485,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
@@ -502,6 +504,7 @@
 | [0100-same-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -560,6 +563,7 @@
 | [0036-valid-sudoku](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0498-diagonal-traverse) |
@@ -883,6 +887,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0200-number-of-islands) |
 ## Rolling Hash
 |  |
 | ------- |
