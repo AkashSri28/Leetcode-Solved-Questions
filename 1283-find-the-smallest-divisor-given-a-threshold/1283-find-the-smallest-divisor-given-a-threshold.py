@@ -1,7 +1,7 @@
 class Solution:
     def smallestDivisor(self, nums: list[int], threshold: int) -> int:
         low, high = 1, max(nums)
-        ans = 0
+        ans = high
 
         while low <= high:
             mid = (low + high)//2
