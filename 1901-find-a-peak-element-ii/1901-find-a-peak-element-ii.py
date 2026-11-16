@@ -22,7 +22,7 @@ class Solution:
             else:
                 low = mid + 1
 
-        return -1
+        return [-1, -1]
 
 # TC: O(m*logn)
 # SC: O(1)
