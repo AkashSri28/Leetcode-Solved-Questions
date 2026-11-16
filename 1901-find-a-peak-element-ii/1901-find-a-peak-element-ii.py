@@ -24,4 +24,5 @@ class Solution:
 
         return -1
 
-        
+# TC: O(m*logn)
+# SC: O(1)
