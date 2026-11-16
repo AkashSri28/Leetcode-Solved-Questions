@@ -82,6 +82,7 @@
 | [1656-count-good-triplets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1901-find-a-peak-element-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2048-build-array-from-permutation) |
@@ -569,6 +570,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0945-snakes-and-ladders) |
+| [1901-find-a-peak-element-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -637,6 +639,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1901-find-a-peak-element-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
