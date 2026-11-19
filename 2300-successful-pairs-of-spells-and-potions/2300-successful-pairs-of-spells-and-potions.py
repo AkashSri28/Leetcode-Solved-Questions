@@ -19,4 +19,6 @@ class Solution:
 
         return ans
 
-        
+# TC: O(nlogn + m*logn)
+# SC: O(1)
+# Approach: sort potions to apply binary search. for each element in spells, check the leftmost element in potions where product >= success
