@@ -96,6 +96,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -554,6 +555,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -640,6 +642,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1901-find-a-peak-element-ii](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1901-find-a-peak-element-ii) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -702,6 +705,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
