@@ -5,13 +5,13 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    def swapChildren(self, node):
+        if node:
+            node.left, node.right = node.right, node.left
+            self.swapChildren(node.left)
+            self.swapChildren(node.right)
+        
     def invertTree(self, root: TreeNode | None) -> TreeNode | None:
-        def swapNodes(node):
-            if node:
-                node.left, node.right = node.right, node.left
-                swapNodes(node.left)
-                swapNodes(node.right)
-
-        swapNodes(root)
+        self.swapChildren(root)
         return root
         
