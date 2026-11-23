@@ -5,18 +5,11 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-
-    def findDepth(self, node, depth):
-        if node:
-            self.md = max(self.md, depth)
-            self.findDepth(node.left, depth+1)
-            self.findDepth(node.right, depth+1)
-
     def maxDepth(self, root: TreeNode | None) -> int:
-        self.md = 0
-        self.findDepth(root, 1)
-        return self.md
+        if not root:
+            return 0
+        return 1 + max(self.maxDepth(root.left), self.maxDepth(root.right))
         
 # TC: O(n) DFS
-# SC: O(n)
-# Approach: 
+# SC: O(h)
+# Approach: using DFS to visit each node and updating depth at each level and comparing to find max depth
