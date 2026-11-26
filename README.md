@@ -473,6 +473,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -495,6 +496,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -530,6 +532,7 @@
 | [0226-invert-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -908,10 +911,12 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
+| [0572-subtree-of-another-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 ## Bucket Sort
 |  |
 | ------- |
