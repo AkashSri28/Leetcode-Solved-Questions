@@ -26,3 +26,6 @@ class Solution:
                 q.append(node.right)
         return False
 
+# TC: O(n*n)  BFS*checkNodes()
+# SC: O(h) deque
+# Approach: use BFS to iterate over nodes in root, now check for subtree at each node if it matches with subtree
