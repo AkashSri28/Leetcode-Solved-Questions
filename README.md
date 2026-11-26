@@ -465,6 +465,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0199-binary-tree-right-side-view) |
@@ -485,6 +486,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0199-binary-tree-right-side-view) |
@@ -521,6 +523,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AkashSri28/Leetcode-Solved-Questions/tree/master/0199-binary-tree-right-side-view) |
