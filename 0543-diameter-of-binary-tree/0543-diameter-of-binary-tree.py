@@ -5,22 +5,16 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        ans = 0
-
-        def findDiameterAtNode(node):
-            if node:
-                nonlocal ans
-                left = findDiameterAtNode(node.left)
-                right = findDiameterAtNode(node.right)
-                ans = max(ans, left + right)
-                return 1 + max(left, right)
-
+    ans = 0
+    def diaAtNode(self, node):
+        if not node:
             return 0
+        left = self.diaAtNode(node.left)
+        right = self.diaAtNode(node.right)
+        self.ans = max(self.ans, left+right)
+        return 1+max(left, right)
 
-        findDiameterAtNode(root)
-        return ans
-
-# TC: O(n)
-# SC: O(h)
+    def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
+        self.diaAtNode(root)
+        return self.ans
         
